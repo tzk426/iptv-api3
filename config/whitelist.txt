@@ -2,7 +2,9 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist for the interface. Interfaces in the whitelist will not participate in speed testing and will always be retained at the front of the results.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
-
+吉林生活,http://htkj.5vn.cn:9004/hls/70/index.m3u8
+吉林乡村,http://htkj.5vn.cn:9004/hls/73/index.m3u8
+长影频道,http://htkj.5vn.cn:9004/hls/74/index.m3u8
 咪视界-1,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227308/index.m3u8
 咪视界-2,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227314/index.m3u8
 咪视界-3,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227317/index.m3u8
