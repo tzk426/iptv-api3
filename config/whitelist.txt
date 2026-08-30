@@ -2,6 +2,28 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist for the interface. Interfaces in the whitelist will not participate in speed testing and will always be retained at the front of the results.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
+
+
+
+重温经典,http://8.138.7.223/tv/cwjd.php
+重温经典,http://k.061899.xyz/m.php?id=cwjd
+重温经典,http://m.061899.xyz/mg/cwjd
+重温经典,http://61.182.24.170:8080/live/xiangjiao-cwjd.m3u8
+重温经典欣赏,http://rihou.cc:555/tv/[Pd]重温经典
+邵氏电影,http://rihou.cc:555/tv/[FY]邵氏电影
+邵氏武侠,http://rihou.cc:555/tv/[FY]邵氏武侠
+邵氏动作,http://rihou.cc:555/tv/[FY]邵氏动作
+邵氏喜剧,http://rihou.cc:555/tv/[FY]邵氏喜剧
+
+龙华电影,https://cdn.qd.je/163189/lhdy
+龙华经典,https://cdn.qd.je/163189/lhjd
+龙华偶像,https://cdn.qd.je/163189/lhox
+龙华日韩,https://cdn.qd.je/163189/lhrh
+龙华戏剧,https://cdn.qd.je/163189/lhxj
+龙华洋片,https://cdn.qd.je/163189/lhyp
+龙华卡通,https://cdn.qd.je/163189/lhkt
+
+
 兵器科技,http://yun.two.yunshipin.bbroot.com:8080/streams/06qdg3an02f/playlist.m3u8
 女性时尚,http://yun.two.yunshipin.bbroot.com:8080/streams/m6czzf4veal/playlist.m3u8
 世界地理,http://yun.two.yunshipin.bbroot.com:8080/streams/ngaoq6n3hx/playlist.m3u8
