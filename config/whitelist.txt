@@ -2,7 +2,19 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist for the interface. Interfaces in the whitelist will not participate in speed testing and will always be retained at the front of the results.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
-
+兵器科技,http://yun.two.yunshipin.bbroot.com:8080/streams/06qdg3an02f/playlist.m3u8
+女性时尚,http://yun.two.yunshipin.bbroot.com:8080/streams/m6czzf4veal/playlist.m3u8
+世界地理,http://yun.two.yunshipin.bbroot.com:8080/streams/ngaoq6n3hx/playlist.m3u8
+卫生健康,http://yun.two.yunshipin.bbroot.com:8080/streams/5k0hlawblpr/playlist.m3u8
+央视文化精品,http://yun.two.yunshipin.bbroot.com:8080/streams/lg3h7pybnrp/playlist.m3u8
+第一剧场,http://yun.two.yunshipin.bbroot.com:8080/streams/wo7r030m2jr/playlist.m3u8
+怀旧剧场,http://yun.two.yunshipin.bbroot.com:8080/streams/adkkuorqvy6/playlist.m3u8
+风云剧场,http://yun.two.yunshipin.bbroot.com:8080/streams/wb6myn1vnh/playlist.m3u8
+风云足球,http://yun.two.yunshipin.bbroot.com:8080/streams/daa25qsoxmn/playlist.m3u8
+风云音乐,http://yun.two.yunshipin.bbroot.com:8080/streams/zu4j5ltto1s/playlist.m3u8
+央视台球,http://yun.two.yunshipin.bbroot.com:8080/streams/jglzbe7ekh/playlist.m3u8
+高尔夫网球,http://yun.two.yunshipin.bbroot.com:8080/streams/9al100q3qt6/playlist.m3u8
+电视指南,http://yun.two.yunshipin.bbroot.com:8080/streams/4948dd40b39/playlis.m3u8
 CCTV-1,http://45.192.97.170:8880/play/1.m3u8
 CCTV-2,http://45.192.97.170:8880/play/2.m3u8
 CCTV-3,http://45.192.97.170:8880/play/3.m3u8
