@@ -1260,19 +1260,9 @@ IPTV音乐现场,http://thhomes.cn:4000/rtp/239.3.1.70:4120
 
 新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 爱上海,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-上海第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
-上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
-上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
-上海新闻综合,http://59.110.175.70:10001/df4k.php?id=20
-上海都市,http://59.110.175.70:10001/df4k.php?id=18
 
-魔都眼,http://59.110.175.70:10001/df4k.php?id=1601
-看东方,http://59.110.175.70:10001/df4k.php?id=2029
-上海第一财经,http://59.110.175.70:10001/df4k.php?id=21
-新纪实,http://59.110.175.70:10001/df4k.php?id=1600
 
 黑龙江影视,http://tl.fzcydn.vip:49135/udp/229.58.190.14:5000
-黑龙江影视,http://ttp://gogo655.cn:8888/udp/229.58.190.126:5000
 黑龙江新闻法治,http://tl.fzcydn.vip:49135/udp/229.58.190.16:5000
 黑龙江新闻法治,http://tl.fzcydn.vip:49135/udp/229.58.190.122:5000
 黑龙江文体,http://tl.fzcydn.vip:49135/udp/229.58.190.30:5000
@@ -1283,17 +1273,12 @@ IPTV音乐现场,http://thhomes.cn:4000/rtp/239.3.1.70:4120
 黑龙江农业科教,http://tl.fzcydn.vip:49135/udp/229.58.190.123:5000
 黑龙江都市,http://tl.fzcydn.vip:49135/udp/229.58.190.34:5000
 黑龙江都市,http://tl.fzcydn.vip:49135/udp/229.58.190.121:5000
-黑龙江影视,http://9.zubo.cc.cd/hljsysdx.php?id=1025
-黑龙江文体,http://9.zubo.cc.cd/hljsysdx.php?id=1026
-黑龙江都市,http://9.zubo.cc.cd/hljsysdx.php?id=1027
-黑龙江新闻法治,http://9.zubo.cc.cd/hljsysdx.php?id=1028
-黑龙江少儿,http://9.zubo.cc.cd/hljsysdx.php?id=1030
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
 
-茶频道,https://api.ggiptv.com/v/hunantv.php?id=578
+
 湖南都市,https://api.ggiptv.com/v/hunantv.php?id=346
 湖南爱晚,https://api.ggiptv.com/v/hunantv.php?id=261
 湖南经视,https://api.ggiptv.com/v/hunantv.php?id=280
@@ -1302,18 +1287,19 @@ IPTV音乐现场,http://thhomes.cn:4000/rtp/239.3.1.70:4120
 湖南电视剧,https://api.ggiptv.com/v/hunantv.php?id=484
 湖南国际,https://api.ggiptv.com/v/hunantv.php?id=229
 先锋乒羽,https://api.ggiptv.com/v/hunantv.php?id=329
-茶频道,https://api.ggiptv.com/v/hunantv.php?id=578
 快乐垂钓,https://api.ggiptv.com/v/hunantv.php?id=218
 金鹰卡界,https://api.ggiptv.com/v/hunantv.php?id=287
 金鹰纪实,https://api.ggiptv.com/v/hunantv.php?id=316
 长沙新闻,https://api.ggiptv.com/v/hunantv.php?id=269
 长沙政法,https://api.ggiptv.com/v/hunantv.php?id=254
 长沙女性,https://api.ggiptv.com/v/hunantv.php?id=230
+
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
 云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
-云南影视,https://stream1.freetv.fun/76d6929ef3145eb85fe264b8f83432ccc076db07698455be65ce53c618477a90.m3u8
+
+
 苏州综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 苏州生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
