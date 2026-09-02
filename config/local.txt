@@ -1162,54 +1162,7 @@ IPTV音乐现场,http://thhomes.cn:4000/rtp/239.3.1.70:4120
 🏀体育频道,#genre#
 
 
-咪视界4K-1,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000005180
-咪视界4K-1,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015686
-咪视界-1,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000005308
-咪视界-2,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000005969
-咪视界-3,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000007218
-咪视界-4,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000008001
-咪视界-5,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000008176
-咪视界-6,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000008379
-咪视界-7,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000010129
-咪视界-8,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000010948
-咪视界-9,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000028638
-咪视界-10,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000031494
-咪视界-11,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000000097
-咪视界-12,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000002019
-咪视界-13,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000002809
-咪视界-14,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000003915
-咪视界-15,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000005837
-咪视界-16,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000006077
-咪视界-17,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000009788
-咪视界-18,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000010833
-咪视界-19,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000012558
-咪视界-20,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000012616
-咪视界-21,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015470
-咪视界-22,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015560
-咪视界-23,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000017678
-咪视界-24,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000019839
-咪视界-25,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000023434
-咪视界-26,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000025380
-咪视界-27,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000027691
-咪视界-28,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000031669
-咪视界-29,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011518
-咪视界-30,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011519
-咪视界-31,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011520
-咪视界-32,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011521
-睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011528
-睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011530
-睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000004193
-睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011529
-睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011531
-睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000021904
-睛彩青少,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011525
-睛彩青少,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000031315
-睛彩青少,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000011297
-睛彩广场舞,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011523
-睛彩广场舞,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011524
-睛彩广场舞,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000006658
-军事国防央七,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000011518
-军事国防央七,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011522
+
 
 
 五星体育,http://59.110.175.70:10001/df4k.php?id=1605
