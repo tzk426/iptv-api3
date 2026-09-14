@@ -13,6 +13,22 @@
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 
+辽宁卫视,http://dassby.qqff.top:99/live/辽宁卫视高清/index.m3u8
+辽宁公共,http://dassby.qqff.top:99/live/辽宁公共/index.m3u8
+辽宁北方,http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
+辽宁教育青少,http://dassby.qqff.top:99/live/辽宁教育青少/index.m3u8
+辽宁生活,http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
+辽宁经济,http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
+辽宁都市,http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
+辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
+辽宁影视剧,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
+CHC影迷电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
+CHC家庭影院,http://dassby.qqff.top:99/live/CHC家庭影院/index.m3u8
+风云足球,http://dassby.qqff.top:99/live/风云足球/index.m3u8
+游戏风云,http://dassby.qqff.top:99/live/游戏风云/index.m3u8
+快乐垂钓,http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
+精彩影视,http://dassby.qqff.top:99/live/精彩影视/index.m3u8
 
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 吉林乡村,https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
