@@ -3,7 +3,13 @@
 # This is the whitelist for the interface. Interfaces in the whitelist will not participate in speed testing and will always be retained at the front of the results.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
-
+龙华电影,https://8.fast.hidns.vip/163189/lhdy
+龙华经典,https://8.fast.hidns.vip/163189/lhjd
+龙华偶像,https://8.fast.hidns.vip/163189/lhox
+龙华日韩,https://8.fast.hidns.vip/163189/lhrh
+龙华戏剧,https://8.fast.hidns.vip/163189/lhxj
+龙华洋片,https://8.fast.hidns.vip/163189/lhyp
+龙华卡通,https://8.fast.hidns.vip/163189/lhkt
 三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
