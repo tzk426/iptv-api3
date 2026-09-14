@@ -20,7 +20,7 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 辽宁生活,http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
 辽宁经济,http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
 辽宁都市,http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
-辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
+辽宁体育休闲,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 辽宁影视剧,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
 CHC影迷电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
