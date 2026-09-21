@@ -29,6 +29,9 @@ iHOT爱浪漫,http://ch3829.myds.me:4022/rtp/239.94.1.128:5140
 全球大片,http://ch3829.myds.me:4022/rtp/239.94.1.24:5140
 求索频道,http://ch3829.myds.me:4022/rtp/239.94.1.142:5140
 4K视界,http://ch3829.myds.me:4022/rtp/239.94.1.60:5140
+凤凰中文,http://173.208.234.146/live/fhzw.m3u8
+凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
+凤凰香港,http://173.208.234.146/live/fhxg.m3u8
 
 NewTV超级电影,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 NewTV超级电视剧,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
