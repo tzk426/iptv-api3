@@ -1,4 +1,4 @@
-🎵音乐,#genre#
+🎵音乐频道,#genre#
 音乐小石榴,http://hy.tzk.cc.cd/?id=17091681
 音乐小石榴,https://iptv.catvod.com/huya/17091681
 音乐小石榴,https://live.ottiptv.cc/huya/17091681
@@ -835,7 +835,7 @@ CETN-4,http://101.wifi98.com:9001/rtp/232.0.0.46:1234
 三沙卫视,http://101.wifi98.com:9001/rtp/232.0.0.184:1234
 
 
-🥝央视,#genre#
+🥝央视频道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV-3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
@@ -1061,7 +1061,7 @@ CCTV-17,http://go.bkpcp.top/mg/cctv17
 
 
 
-🥝卫视,#genre#
+🥝卫视频道,#genre#
 东方卫视4K,http://go.bkpcp.top/mg/dfws
 浙江卫视4K,http://go.bkpcp.top/mg/zjws
 湖南卫视4K,http://go.bkpcp.top/mg/hunws
@@ -1329,7 +1329,7 @@ CCTV-17,http://go.bkpcp.top/mg/cctv17
 兵团卫视,http://go.bkpcp.top/mg/btws
 海峡卫视,http://go.bkpcp.top/mg/hxws
 
-💖港澳,#genre#
+💖港澳频道,#genre#
 
 环球电视,https://stream1.freetv.fun/1e86a557d2d00ae53094f006c0167ca6e17e6f14817302f75057618fb631c774.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
@@ -1445,7 +1445,7 @@ C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 华文五套,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 华文七套,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 华文八套,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-🎬影视,#genre#
+🎬影视频道,#genre#
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
@@ -1720,7 +1720,7 @@ IPTV鉴赏,http://thhomes.cn:4000/rtp/239.3.1.82:4120
 IPTV音乐现场,http://thhomes.cn:4000/rtp/239.3.1.70:4120
 爱上4K,http://thhomes.cn:4000/rtp/239.3.1.236:2000
 
-🏀体育,#genre#
+🏀体育频道,#genre#
 咪视界-1,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227308/index.m3u8
 咪视界-2,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227314/index.m3u8
 咪视界-3,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227317/index.m3u8
