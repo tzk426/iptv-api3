@@ -183,8 +183,9 @@ CHC家庭影院,http://dassby.qqff.top:99/live/CHC家庭影院/index.m3u8
 
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://k.061899.xyz/m.php?id=cwjd
-重温经典,http://m.061899.xyz/mg/cwjd
 重温经典,http://61.182.24.170:8080/live/xiangjiao-cwjd.m3u8
+重温经典,http://47.97.252.137:8088/daili/cwjd.m3u8?line=0
+重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 
 邵氏电影,http://rihou.cc:555/tv/[FY]邵氏电影
 邵氏武侠,http://rihou.cc:555/tv/[FY]邵氏武侠
