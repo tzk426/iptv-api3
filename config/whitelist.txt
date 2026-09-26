@@ -3,6 +3,12 @@
 # This is the whitelist for the interface. Interfaces in the whitelist will not participate in speed testing and will always be retained at the front of the results.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
+黑龙江文体,https://111.43.174.247:4430/live/hljwy_hd.m3u8
+黑龙江都市,https://111.43.174.247:4430/live/dushi_hd.m3u8
+黑龙江新闻·法治,https://111.43.174.247:4430/live/hljxw_hd.m3u8
+黑龙江影视,https://111.43.174.247:4430/live/hljys_hd.m3u8
+黑龙江农业·科教,https://111.43.174.247:4430/live/hljgg_hd.m3u8
+黑龙江少儿,https://111.43.174.247:4430/live/hljse_hd.m3u8
 
 海南卫视,http://nn.7x9d.cn:80/地方台8563/海南.php?id=hnws
 三沙卫视,http://nn.7x9d.cn:80/地方台8563/海南.php?id=ssws
