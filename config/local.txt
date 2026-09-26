@@ -3,6 +3,12 @@
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
 
+黑龙江影视,http://112.99.195.122:65000/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江文体,http://112.99.195.122:65000/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江都市,http://112.99.195.122:65000/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江新闻法治,http://112.99.195.122:65000/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江公共,http://112.99.195.122:65000/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江少儿,http://112.99.195.122:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 
 iHOT爱喜剧,http://ch3829.myds.me:4022/rtp/239.94.1.129:5140
 iHOT爱喜剧,http://ch3829.myds.me:4022/rtp/239.94.1.129:5140
