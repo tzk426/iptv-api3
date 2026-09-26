@@ -41,20 +41,8 @@ IHOT爱院线,http://192.187.124.34:81/live/ihotayx.m3u8
 金鹰纪实,http://192.187.124.34:81/live/hnjyjsa.m3u8
 湖南国际,http://192.187.124.34:81/live/hngj.m3u8
 湖南导视,http://192.187.124.34:81/live/hnda.m3u8
-湖南娱乐,http://111.8.242.142:9999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南娱乐,http://111.8.242.127:9999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南导视,http://111.8.242.127:9999/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南导视,http://111.8.242.142:9999/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南教育,http://111.8.242.142:9999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南教育,http://111.8.242.127:9999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南爱晚,http://111.8.242.142:9999/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南爱晚,http://111.8.242.127:9999/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电视剧,http://111.8.242.142:9999/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电视剧,http://111.8.242.127:9999/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南经视,http://111.8.242.142:9999/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南经视,http://111.8.242.127:9999/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南都市,http://111.8.242.142:9999/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南都市,http://111.8.242.127:9999/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 求索纪录,https://hls.9kds.com/20260909/qsjl.m3u8
 求索动物,https://hls.9kds.com/20260909/qsdw.m3u8
 求索海淘,https://hls.9kds.com/20260909/qskx.m3u8
@@ -65,18 +53,13 @@ IHOT爱院线,http://192.187.124.34:81/live/ihotayx.m3u8
 重温经典,http://k.061899.xyz/m.php?id=cwjd
 
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
-中天新闻,http://111.0.115.129:8081/live/666ztxw.m3u8
-中天新闻,http://111.0.115.129:8081/live/222ztxw.m3u8
 中天新闻,http://jnzq.ohoyee.com:9080/live/332332-ztxw2.m3u8
 中天新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
 中天新闻,http://iactive-clink.com:8081/live/888ztxw.m3u8
 中天新闻,http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
-中天新闻,http://safe.shanghairta.com:8081/live/555ztxw.m3u8
 中天新闻,http://iactive-clink.com:8081/live/111ztxw.m3u8
-中天新闻,http://173.208.234.146/live/ctinews.m3u8
 中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8
-中天新闻,http://safe.shanghairta.com:8081/live/000ztxw.m3u8
-中天新闻,http://hsjky.com.cn:8081/live/999ztxw.m3u8
+
 
 
 
