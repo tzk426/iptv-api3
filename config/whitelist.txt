@@ -6,6 +6,11 @@
 凤凰中文,http://173.208.234.146/live/fhzw.m3u8
 凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
 凤凰香港,http://173.208.234.146/live/fhxg.m3u8
+梨园频道,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=b490f238c3d159386894b38bf494f3b3&wsTime=1781171961
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=e479a36e61d7118feac2f0e3c919e4b1&wsTime=1781171961
+武术世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=964d1d401195b17122c932b967350ab3&wsTime=1781171961
+河南曲艺,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=ff32a7e8b90dd6d09a664edcdd34663b&wsTime=1781171961
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=45f9bf04eae9a5743bdd5e7fe2f8f425&wsTime=1781171961
 
 黑龙江文体,https://111.43.174.247:4430/live/hljwy_hd.m3u8
 黑龙江都市,https://111.43.174.247:4430/live/dushi_hd.m3u8
