@@ -11,6 +11,9 @@
 武术世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=964d1d401195b17122c932b967350ab3&wsTime=1781171961
 河南曲艺,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=ff32a7e8b90dd6d09a664edcdd34663b&wsTime=1781171961
 国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=45f9bf04eae9a5743bdd5e7fe2f8f425&wsTime=1781171961
+长春综合,http://8.138.7.223/tv/cczh
+长春市民生活,http://8.138.7.223/tv/ccsm
+长春文旅体育,http://8.138.7.223/tv/ccwt
 
 黑龙江文体,https://111.43.174.247:4430/live/hljwy_hd.m3u8
 黑龙江都市,https://111.43.174.247:4430/live/dushi_hd.m3u8
