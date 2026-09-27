@@ -10,23 +10,7 @@
 黑龙江公共,http://112.99.195.122:65000/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江少儿,http://112.99.195.122:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 
-iHOT爱喜剧,http://ch3829.myds.me:4022/rtp/239.94.1.129:5140
-iHOT爱喜剧,http://ch3829.myds.me:4022/rtp/239.94.1.129:5140
-iHOT爱奇谈,http://ch3829.myds.me:4022/rtp/239.94.1.130:5140
-iHOT爱科幻,http://ch3829.myds.me:4022/rtp/239.94.1.131:5140
-iHOT爱院线,http://ch3829.myds.me:4022/rtp/239.94.1.132:5140
-iHOT爱悬疑,http://ch3829.myds.me:4022/rtp/239.94.1.136:5140
-iHOT爱历史,http://ch3829.myds.me:4022/rtp/239.94.1.135:5140
-iHOT爱谍战,http://ch3829.myds.me:4022/rtp/239.94.1.134:5140
-iHOT爱浪漫,http://ch3829.myds.me:4022/rtp/239.94.1.128:5140
-绚影4K,http://ch3829.myds.me:4022/rtp/239.94.1.150:5140
-峨眉电影,http://ch3829.myds.me:4022/rtp/239.94.0.103:5140
-经典电影,http://ch3829.myds.me:4022/rtp/239.93.1.21:5140
-华语影院,http://ch3829.myds.me:4022/rtp/239.94.1.22:5140
-星光院线,http://ch3829.myds.me:4022/rtp/239.93.1.23:5140
-全球大片,http://ch3829.myds.me:4022/rtp/239.94.1.24:5140
-求索频道,http://ch3829.myds.me:4022/rtp/239.94.1.142:5140
-4K视界专区,http://ch3829.myds.me:4022/rtp/239.94.1.60:5140
+
 
 
 
@@ -1020,11 +1004,11 @@ CHC家庭影院,http://go.bkpcp.top/mg/jtyy
 龙华日韩,http://cdn8.163189.xyz/163189/lhrh
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
 龙华洋片,http://cdn8.163189.xyz/163189/lhyp
-古装妖魔,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
+古装剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
 泰语剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
 家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
 搞笑剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
-爱情生活,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
+爱情喜剧,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
 大家剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
 
 
