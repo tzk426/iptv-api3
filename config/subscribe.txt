@@ -1,10 +1,10 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
- https://gh.927223.xyz/https://raw.githubusercontent.com/tzk426/iptv-api3/refs/heads/master/output/ty.txt
+ https://jiashu.1win.eu.org/https://raw.githubusercontent.com/tzk426/iptv-api3/refs/heads/master/output/ty.txt
 http://rihou.cc:555/gggg.nzk
-https://gh.927223.xyz/https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/holive.m3u 
-https://gh.927223.xyz/https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt
+https://jiashu.1win.eu.org/https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/holive.m3u 
+https://jiashu.1win.eu.org/https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt
 
 
 
