@@ -999,6 +999,14 @@ CCTV-17,http://j.s.bkpcp.top/jj/cctv17
 
 
 🥝卫视频道,#genre#
+北京卫视4K,http://nn.7x9d.cn/91tv1.php?e=bjws4k
+四川卫视4K,http://nn.7x9d.cn/91tv1.php?e=scws4k
+山东卫视4K,http://nn.7x9d.cn/91tv1.php?e=sdws4k
+广东卫视4K,http://nn.7x9d.cn/91tv1.php?e=gdws4k
+深圳卫视4K,http://nn.7x9d.cn/91tv1.php?e=szws4k
+湖南卫视4K,http://nn.7x9d.cn/91tv1.php?e=hnws4k
+浙江卫视4K,http://nn.7x9d.cn/91tv1.php?e=zjws4k
+东方卫视4K,http://nn.7x9d.cn/91tv1.php?e=dfws4k
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
