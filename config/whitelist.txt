@@ -69,9 +69,7 @@ iHOT爱浪漫,http://ch3829.myds.me:4022/rtp/239.94.1.128:5140
 全球大片,http://ch3829.myds.me:4022/rtp/239.94.1.24:5140
 求索频道,http://ch3829.myds.me:4022/rtp/239.94.1.142:5140
 4K视界,http://ch3829.myds.me:4022/rtp/239.94.1.60:5140
-凤凰中文,http://173.208.234.146/live/fhzw.m3u8
-凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
-凤凰香港,http://173.208.234.146/live/fhxg.m3u8
+
 
 NewTV超级电影,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 NewTV超级电视剧,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -286,26 +284,16 @@ CHC家庭影院,http://bztv.tvbus.cc:8081/cdnlive/chcjt.m3u8
 CHC影迷电影,http://bztv.tvbus.cc:8081/cdnlive/chchd.m3u8
 CHC动作电影,http://bztv.tvbus.cc:8081/cdnlive/chcdz.m3u8
 重温经典,http://bztv.tvbus.cc:8081/cdnlive/cwjd.m3u8
-北京财经,http://m.061899.xyz/mg/bjcj
-北京文艺,http://m.061899.xyz/mg/bjwy
-北京生活,http://m.061899.xyz/mg/bjsh
-北京少儿,http://m.061899.xyz/mg/bjkk
-北京影视,http://m.061899.xyz/mg/bjys
-北京纪实科教,http://m.061899.xyz/mg/bjjs
-北京新闻,http://go.bkpcp.top/mg/bjxw
-北京体育,http://go.bkpcp.top/mg/bjty
-北京财经,http://go.bkpcp.top/mg/bjcj
-北京文艺,http://go.bkpcp.top/mg/bjwy
-北京生活,http://go.bkpcp.top/mg/bjsh
-北京少儿,http://go.bkpcp.top/mg/bjkk
-北京影视,http://go.bkpcp.top/mg/bjys
-北京纪实,http://go.bkpcp.top/mg/bjjs
-东方影视,http://m.061899.xyz/mg/shys
-东方纪实,http://m.061899.xyz/mg/xjs
-环球旅游,http://m.061899.xyz/mg/hslb
-金色剧场,http://m.061899.xyz/mg/jsjc
-乡村振兴,http://m.061899.xyz/mg/xczx
-咪咕体育,http://m.061899.xyz/mg/mgty
+北京新闻,http://www.221111.best:8012/rtp/239.3.1.159:8000
+北京生活,http://www.221111.best:8012/rtp/239.3.1.117:8000
+北京影视,http://www.221111.best:8012/rtp/239.3.1.158:8000
+北京文艺,http://www.221111.best:8012/rtp/239.3.1.242:8000
+北京体育,http://www.221111.best:8012/rtp/239.3.1.243:8000
+北京纪实科教,http://www.221111.best:8012/rtp/239.3.1.115:8000
+北京财经,http://www.221111.best:8012/rtp/239.3.1.116:8000
+北京国际,http://www.221111.best:8012/rtp/239.3.1.235:8000
+
+
 
 咪视界-1,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227308/index.m3u8
 咪视界-2,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227314/index.m3u8
@@ -391,16 +379,11 @@ CHC动作电影,http://bztv.tvbus.cc:8081/cdnlive/chcdz.m3u8
 
 
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8#http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视4k,http://go.bkpcp.top/mg/hunws
 浙江卫视4k,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
-浙江卫视4k,http://go.bkpcp.top/mg/zjws
-江苏卫视4K,http://go.bkpcp.top/mg/jsws
 苏州4k,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 东方卫视(看东方)4k,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
-凤凰中文,http://j.s.bkpcp.top/js/fhzw
-凤凰资讯,http://j.s.bkpcp.top/js/fhzx
-凤凰香港,http://j.s.bkpcp.top/js/fhxg
+
 
 
 
