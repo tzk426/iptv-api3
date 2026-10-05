@@ -10,10 +10,6 @@
 黑龙江公共,http://112.99.195.122:65000/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江少儿,http://112.99.195.122:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-
-
-
 辽宁卫视,http://dassby.qqff.top:99/live/辽宁卫视高清/index.m3u8
 辽宁公共,http://dassby.qqff.top:99/live/辽宁公共/index.m3u8
 辽宁北方,http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
@@ -30,7 +26,6 @@ CHC家庭影院,http://dassby.qqff.top:99/live/CHC家庭影院/index.m3u8
 游戏风云,http://dassby.qqff.top:99/live/游戏风云/index.m3u8
 快乐垂钓,http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
 精彩影视,http://dassby.qqff.top:99/live/精彩影视/index.m3u8
-
 五星体育,http://shenhua.asuscomm.com:8888/rtp/233.18.204.58:5140
 
 四川卫视,http://wan1.tangwudi.cc:47859/udp/239.94.0.60:5140
@@ -159,7 +154,51 @@ i成都,http://wan1.tangwudi.cc:47859/udp/239.94.2.1:5140
 四川乡村,http://wan1.tangwudi.cc:47859/udp/239.94.1.8:5140
 
 
-
+北京联通
+财富天下,http://www.221111.best:8012/rtp/239.3.1.53:9136
+爱上4K,http://www.221111.best:8012/rtp/239.3.1.236:2000
+IPTV光影,http://www.221111.best:8012/rtp/239.3.1.84:4120
+IPTV军事,http://www.221111.best:8012/rtp/239.3.1.76:4120
+IPTV军旅剧场,http://www.221111.best:8012/rtp/239.3.1.69:4120
+IPTV军旅剧场,http://www.221111.best:8012/rtp/239.3.1.68:4120
+IPTV动作影院,http://www.221111.best:8012/rtp/239.3.1.92:4120
+IPTV动画,http://www.221111.best:8012/rtp/239.3.1.80:4120
+IPTV喜剧剧场,http://www.221111.best:8012/rtp/239.3.1.91:4120
+IPTV国学,http://www.221111.best:8012/rtp/239.3.1.77:4120
+IPTV地理,http://www.221111.best:8012/rtp/239.3.1.71:4120
+IPTV墨宝,http://www.221111.best:8012/rtp/239.3.1.83:4120
+IPTV好学生,http://www.221111.best:8012/rtp/239.3.1.81:4120
+IPTV家庭影院,http://www.221111.best:8012/rtp/239.3.1.93:4120
+IPTV影视,http://www.221111.best:8012/rtp/239.3.1.88:4120
+IPTV戏曲,http://www.221111.best:8012/rtp/239.3.1.78:4120
+IPTV早教,http://www.221111.best:8012/rtp/239.3.1.79:4120
+IPTV星影,http://www.221111.best:8012/rtp/239.3.1.94:4120
+IPTV武侠剧场,http://www.221111.best:8012/rtp/239.3.1.90:4120
+IPTV武术,http://www.221111.best:8012/rtp/239.3.1.87:4120
+IPTV精选,http://www.221111.best:8012/rtp/239.3.1.74:4120
+IPTV美人,http://www.221111.best:8012/rtp/239.3.1.73:4120
+IPTV美妆,http://www.221111.best:8012/rtp/239.3.1.72:4120
+IPTV解密,http://www.221111.best:8012/rtp/239.3.1.75:4120
+IPTV都市剧场,http://www.221111.best:8012/rtp/239.3.1.67:4120
+IPTV鉴赏,http://www.221111.best:8012/rtp/239.3.1.82:4120
+IPTV音乐现场,http://www.221111.best:8012/rtp/239.3.1.70:4120
+IPTV少儿动画,http://www.221111.best:8012/rtp/239.3.1.199:9000
+IPTV热播剧场,http://www.221111.best:8012/rtp/239.3.1.194:9020
+IPTV经典电影,http://www.221111.best:8012/rtp/239.3.1.195:9024
+IPTV魅力时尚,http://www.221111.best:8012/rtp/239.3.1.196:9012
+淘电影,http://www.221111.best:8012/rtp/239.3.1.250:8001
+淘剧场,http://www.221111.best:8012/rtp/239.3.1.95:8001
+淘娱乐,http://www.221111.best:8012/rtp/239.3.1.100:8001
+淘baby,http://www.221111.best:8012/rtp/239.3.1.238:8001
+萌宠TV,http://www.221111.best:8012/rtp/239.3.1.102:8001
+睛彩竞技,http://www.221111.best:8012/rtp/239.3.1.125:8001
+睛彩广场舞,http://www.221111.best:8012/rtp/239.3.1.128:8001
+睛彩篮球,http://www.221111.best:8012/rtp/239.3.1.126:8001
+睛彩青少,http://www.221111.best:8012/rtp/239.3.1.127:8001
+茶频道,http://www.221111.best:8012/rtp/239.3.1.165:8001
+金鹰纪实,http://www.221111.best:8012/rtp/239.3.1.58:8156
+快乐垂钓,http://www.221111.best:8012/rtp/239.3.1.164:8001
+中国交通,http://www.221111.best:8012/rtp/239.3.1.188:8001
 
 
 
