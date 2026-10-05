@@ -217,7 +217,7 @@ CCTV-5+,http://173.208.212.130:8181/1080p/cctv5p.m3u8
 CETV-1,http://by4.nty.tv189.cn/live/tm-yszgjy1-4000k.m3u8
 CETV-2,http://by4.nty.tv189.cn/live/tm-yszgjy2-4000k.m3u8
 CETV-4,http://by4.nty.tv189.cn/live/tm-yszgjy4-4000k.m3u8
-东方新闻,http://by4.nty.tv189.cn/live//tm-xpxwzhws-4000k.m3u8
+上海东方新闻,http://by4.nty.tv189.cn/live//tm-xpxwzhws-4000k.m3u8
 
 
 
@@ -232,15 +232,7 @@ CETV-4,http://by4.nty.tv189.cn/live/tm-yszgjy4-4000k.m3u8
 
 吉林乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8
 吉祥新闻,http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/da805d8d77a24db8aaa62328eb6d874e/1.m3u8
-北京卫视,http://go.bkpcp.top/mg/bjws
-北京新闻,http://go.bkpcp.top/mg/bjxw
-北京体育,http://go.bkpcp.top/mg/bjty
-北京财经,http://go.bkpcp.top/mg/bjcj
-北京文艺,http://go.bkpcp.top/mg/bjwy
-北京生活,http://go.bkpcp.top/mg/bjsh
-北京少儿,http://go.bkpcp.top/mg/bjkk
-北京影视,http://go.bkpcp.top/mg/bjys
-北京纪实,http://go.bkpcp.top/mg/bjjs
+
 
 辽宁卫视,http://36.129.58.53:8008/paiptv/LNWS.m3u8
 辽宁都市,http://36.129.58.53:8008/paiptv/LNDS.m3u8
