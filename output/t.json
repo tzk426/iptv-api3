@@ -1,16 +1,20 @@
 {
   "urls": [
+     {
+      "url": "https://www.cttv.vip/ys/json/ctys.json",
+      "name": "📚刺桐自营📚"
+    },
     {
-      "url": "http://肥猫.net/tv",
+      "url": " http://www.饭太硬.cc/tv",
+      "name": "📚饭太硬线路📚"
+    },
+    {
+      "url": "https://0.12yue.de5.net/tvbox/肥猫.json",
       "name": "📚肥猫线路📚"
     },
     {
-      "url": "https://0.12yue.de5.net/tvbox/摸鱼.json",
+      "url": "http://我不是.小不点.com",
       "name": "📚摸鱼线路📚"
-    },
-    {
-      "url": " https://0.12yue.de5.net/tvbox/饭太硬.json",
-      "name": "📚饭太硬线路📚"
     },
     {
       "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
@@ -27,6 +31,18 @@
     {
       "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json",
       "name": "📚茄子裤线路📚"
+    },
+   {
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg",
+      "name": "📚裤老线路📚"
+    },
+     {
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/jn950/live/main/tv/co07",
+      "name": "📚jn950线路📚"
+    },
+     {
+      "url": "http://www.英格里希嗷呜.top/tv",
+      "name": "📚嗷呜线路📚"
     },
     {
       "url": "https://ztha.top/TVBox/thdjk.json",
@@ -45,10 +61,6 @@
       "name": "📚聚玩盒子接口📚"
     },
     {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg",
-      "name": "📚EasyTV永久线路📚"
-    },
-    {
       "url": "https://tv.菜妮丝.top",
       "name": "📚莱妮丝接口📚"
     },
@@ -65,20 +77,12 @@
       "name": "📚网页1接口📚"
     },
     {
-      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "name": "📚网页2接口📚"
-    },
-    {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "name": "📚初秋雨接口📚"
     },
     {
       "url": "http://home.jundie.top:81/top98.json ",
       "name": "📚俊老线路📚"
-    },
-    {
-      "url": "http://hb.小虎斑.site:25252/仅供测试",
-      "name": "📚小虎斑线路📚"
     },
     {
       "url": "https://szyyds.cn/tv/x.json",
@@ -88,11 +92,7 @@
       "url": "http://home.jundie.top:81/top98.json",
       "name": "📚俊哥线路📚"
     },
-    {
-      "url": "https://www.cttv.vip/ys/json/ctys.json",
-      "name": "📚刺桐自营📚"
-    },
-  {
+   {
       "url": "https://play.iptv365.org/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json",
       "name": "📚短剧线路1📚"
     },
