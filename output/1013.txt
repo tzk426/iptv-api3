@@ -171,11 +171,8 @@ TVN,http://58.99.33.2:1935/liveedge2/ElPTxynm_225_1/chunklist_w.m3u8?checkCode=3
 博斯无限台,http://58.99.33.2:1935/liveedge2/ElPTxynm_246_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
 博斯无限二台,http://58.99.33.2:1935/liveedge2/ElPTxynm_247_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
 博斯魅力网,http://58.99.33.2:1935/liveedge2/ElPTxynm_248_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-
 哈TV18,#genre#
-
-松视4台,
-http://58.99.33.2:1935/liveedge2/ElPTxynm_404_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+松视4台,http://58.99.33.2:1935/liveedge2/ElPTxynm_404_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
 彩虹频道,http://58.99.33.2:1935/liveedge2/ElPTxynm_408_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
 松视1台,http://58.99.33.2:1935/liveedge2/ElPTxynm_405_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
 松视2台,http://58.99.33.2:1935/liveedge2/ElPTxynm_406_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
