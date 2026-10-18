@@ -605,11 +605,6 @@ CHC家庭影院,http://fuxin.yunjifei.top:999/tsfile/live/1014_1.m3u8?key=txiptv
 CHC动作电影,http://fuxin.yunjifei.top:999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 
-华数4K,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.123:4056
-锦州新闻综合,http://srs.beijihainews.com.cn/video/jinzhou1/index.m3u8
-锦州教育,http://srs.beijihainews.com.cn/video/jinzhou2/index.m3u8
-
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 
 
@@ -971,8 +966,6 @@ CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV-3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-CCTV-5,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/aoyuncctv5_2pd
-CCTV-5+,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/aoyuncctv5plus_2pd
 CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 CCTV-6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
@@ -1013,64 +1006,7 @@ CCTV-4K,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k
 CCTV-8K,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
 
 
-CCTV-1,http://k.061899.xyz/m.php?id=cctv1
-CCTV-2,http://k.061899.xyz/m.php?id=cctv2
-CCTV-3,http://k.061899.xyz/m.php?id=cctv3
-CCTV-4,http://k.061899.xyz/m.php?id=cctv4
-CCTV-5,http://k.061899.xyz/m.php?id=cctv5
-CCTV-5+,http://k.061899.xyz/m.php?id=cctv5p
-CCTV-6,http://k.061899.xyz/m.php?id=cctv6
-CCTV-7,http://k.061899.xyz/m.php?id=cctv7
-CCTV-8,http://k.061899.xyz/m.php?id=cctv8
-CCTV-9,http://k.061899.xyz/m.php?id=cctv9
-CCTV-10,http://k.061899.xyz/m.php?id=cctv10
-CCTV-11,http://k.061899.xyz/m.php?id=cctv11
-CCTV-12,http://k.061899.xyz/m.php?id=cctv12
-CCTV-13,http://k.061899.xyz/m.php?id=cctv13
-CCTV-14,http://k.061899.xyz/m.php?id=cctv14
-CCTV-15,http://k.061899.xyz/m.php?id=cctv15
-CCTV-16,http://k.061899.xyz/m.php?id=cctv16
-CCTV-17,http://k.061899.xyz/m.php?id=cctv17
 
-CCTV-1,http://k.061899.xyz/k.php?id=cctv1
-CCTV-2,http://k.061899.xyz/k.php?id=cctv2
-CCTV-3,http://k.061899.xyz/k.php?id=cctv3
-CCTV-4,http://k.061899.xyz/k.php?id=cctv4
-CCTV-4美洲,http://k.061899.xyz/k.php?id=cctv4m
-CCTV-4欧洲,http://k.061899.xyz/k.php?id=cctv4o
-CCTV-5,http://k.061899.xyz/k.php?id=cctv5
-CCTV-5+,http://k.061899.xyz/k.php?id=cctv5p
-CCTV-6,http://k.061899.xyz/k.php?id=cctv6
-CCTV-7,http://k.061899.xyz/k.php?id=cctv7
-CCTV-8,http://k.061899.xyz/k.php?id=cctv8
-CCTV-9,http://k.061899.xyz/k.php?id=cctv9
-CCTV-10,http://k.061899.xyz/k.php?id=cctv10
-CCTV-11,http://k.061899.xyz/k.php?id=cctv11
-CCTV-12,http://k.061899.xyz/k.php?id=cctv12
-CCTV-13,http://k.061899.xyz/k.php?id=cctv13
-CCTV-14,http://k.061899.xyz/k.php?id=cctv14
-CCTV-15,http://k.061899.xyz/k.php?id=cctv15
-CCTV-16,http://k.061899.xyz/k.php?id=cctv16
-CCTV-17,http://k.061899.xyz/k.php?id=cctv17
-
-CCTV-1,http://j.s.bkpcp.top/jj/cctv1
-CCTV-2,http://j.s.bkpcp.top/jj/cctv2
-CCTV-3,http://j.s.bkpcp.top/jj/cctv3
-CCTV-4,http://j.s.bkpcp.top/jj/cctv4
-CCTV-5,http://j.s.bkpcp.top/jj/cctv5
-CCTV-5+,http://j.s.bkpcp.top/jj/cctv5p
-CCTV-6,http://j.s.bkpcp.top/jj/cctv6
-CCTV-7,http://j.s.bkpcp.top/jj/cctv7
-CCTV-8,http://j.s.bkpcp.top/jj/cctv8
-CCTV-9,http://j.s.bkpcp.top/jj/cctv9
-CCTV-10,http://j.s.bkpcp.top/jj/cctv10
-CCTV-11,http://j.s.bkpcp.top/jj/cctv11
-CCTV-12,http://j.s.bkpcp.top/jj/cctv12
-CCTV-13,http://j.s.bkpcp.top/jj/cctv13
-CCTV-14,http://j.s.bkpcp.top/jj/cctv14
-CCTV-15,http://j.s.bkpcp.top/jj/cctv15
-CCTV-16,http://j.s.bkpcp.top/jj/cctv16
-CCTV-17,http://j.s.bkpcp.top/jj/cctv17
 
 
 
@@ -1218,38 +1154,6 @@ CCTV-17,http://j.s.bkpcp.top/jj/cctv17
 西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
 大湾区卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nfws
 
-北京卫视,http://k.061899.xyz/m.php?id=bjws
-东方卫视,http://k.061899.xyz/m.php?id=dfws
-浙江卫视,http://k.061899.xyz/m.php?id=zjws
-江苏卫视,http://k.061899.xyz/m.php?id=jsws
-湖南卫视,http://k.061899.xyz/m.php?id=hunws
-广东卫视,http://k.061899.xyz/m.php?id=gdws
-深圳卫视,http://k.061899.xyz/m.php?id=szws
-天津卫视,http://k.061899.xyz/m.php?id=tjws
-安徽卫视,http://k.061899.xyz/m.php?id=ahws
-山东卫视,http://k.061899.xyz/m.php?id=sdws
-辽宁卫视,http://k.061899.xyz/m.php?id=lnws
-河北卫视,http://k.061899.xyz/m.php?id=hbws
-河南卫视,http://k.061899.xyz/m.php?id=hnws
-江西卫视,http://k.061899.xyz/m.php?id=jxws
-四川卫视,http://k.061899.xyz/m.php?id=scws
-重庆卫视,http://k.061899.xyz/m.php?id=cqws
-贵州卫视,http://k.061899.xyz/m.php?id=gzws
-湖北卫视,http://k.061899.xyz/m.php?id=hubws
-广西卫视,http://k.061899.xyz/m.php?id=gxws
-东南卫视,http://k.061899.xyz/m.php?id=dnws
-海南卫视,http://k.061899.xyz/m.php?id=hinws
-青海卫视,http://k.061899.xyz/m.php?id=qhws
-吉林卫视,http://k.061899.xyz/m.php?id=jlws
-兵团卫视,http://k.061899.xyz/m.php?id=btws
-西藏卫视,http://k.061899.xyz/m.php?id=xzws
-内蒙古卫视,http://k.061899.xyz/m.php?id=nmgws
-黑龙江卫视,http://k.061899.xyz/m.php?id=hljws
-大湾区卫视,http://8.138.7.223/tv/dwq.m3u8
-广东珠江,http://8.138.7.223/tv/gdzj.m3u8
-
-
-
 
 
 
@@ -1313,126 +1217,6 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 凤凰中文,http://fh.niurou.cc.cd/fhzw
 凤凰资讯,http://fh.niurou.cc.cd/fhzx
 凤凰香港,http://fh.niurou.cc.cd/fhhk
-中天新闻,http://jnzq.ohoyee.com:9080/live/332332-ztxw2.m3u8
-中天新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
-中天新闻,http://iactive-clink.com:8081/live/888ztxw.m3u8
-中天新闻,http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
-中天新闻,http://iactive-clink.com:8081/live/111ztxw.m3u8
-中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8
-镜新闻,http://31.43.191.125:8080/restream/restream/34876
-寰宇新闻,http://31.43.191.125:8080/restream/restream/34793
-寰宇新闻,http://31.43.191.125:8080/restream/restream/34870
-寰宇,http://31.43.191.125:8080/restream/restream/34794
-中天亚洲,http://31.43.191.125:8080/restream/restream/34900
-中天亚洲,http://31.43.191.125:8080/restream/restream/34559
-中天新闻,http://31.43.191.125:8080/restream/restream/34817
-中天综合,http://31.43.191.125:8080/restream/restream/34898
-中視新聞,http://31.43.191.125:8080/restream/restream/34819
-中視經经典,http://31.43.191.125:8080/restream/restream/34820
-中视,http://31.43.191.125:8080/restream/restream/34897
-中视新闻,http://31.43.191.125:8080/restream/restream/34896
-中视经典,http://31.43.191.125:8080/restream/restream/34895
-中视菁采台,http://31.43.191.125:8080/restream/restream/34894
-TVBS HD,http://31.43.191.125:8080/restream/restream/34915
-TVBS ASIA,http://31.43.191.125:8080/restream/restream/34561
-TVBS News 新闻台,http://31.43.191.125:8080/restream/restream/34914
-TVBS-NEWS HD,http://31.43.191.125:8080/restream/restream/34783
-TVBS 新闻,http://31.43.191.125:8080/restream/restream/34818
-TVBS 欢乐台,http://31.43.191.125:8080/restream/restream/34913
-TVBS 精采台,http://31.43.191.125:8080/restream/restream/34912
-东森新闻,http://31.43.191.125:8080/restream/restream/34905
-东森财经,http://31.43.191.125:8080/restream/restream/34901
-东森洋片,http://31.43.191.125:8080/restream/restream/34904
-東森洋片,http://31.43.191.125:8080/restream/restream/34813
-东森综合,http://31.43.191.125:8080/restream/restream/34902
-東森綜合,http://31.43.191.125:8080/restream/restream/34814
-东森戏剧,http://31.43.191.125:8080/restream/restream/34906
-東森戏剧,http://31.43.191.125:8080/restream/restream/34816
-東森电影,http://31.43.191.125:8080/restream/restream/34815
-三立iNEWS新闻台,http://31.43.191.125:8080/restream/restream/34909
-三立台湾,http://31.43.191.125:8080/restream/restream/34806
-三立戲劇,http://31.43.191.125:8080/restream/restream/34803
-三立新闻,http://31.43.191.125:8080/restream/restream/34805
-三立新闻,http://31.43.191.125:8080/restream/restream/34908
-三立綜合,http://31.43.191.125:8080/restream/restream/34804
-三立综合,http://31.43.191.125:8080/restream/restream/34907
-三立都會,http://31.43.191.125:8080/restream/restream/34807
-年代新闻,http://31.43.191.125:8080/restream/restream/34869
-非凡新闻,http://31.43.191.125:8080/restream/restream/34832
-八大戲劇,http://31.43.191.125:8080/restream/restream/34801
-八大第一,http://31.43.191.125:8080/restream/restream/34802
-八大精彩,http://31.43.191.125:8080/restream/restream/34893
-八大综合,http://31.43.191.125:8080/restream/restream/34892
-公视,http://31.43.191.125:8080/restream/restream/34891
-公视戏剧,http://31.43.191.125:8080/restream/restream/34890
-台视,http://31.43.191.125:8080/restream/restream/34879
-台视新闻,http://31.43.191.125:8080/restream/restream/34878
-华视,http://31.43.191.125:8080/restream/restream/34887
-华视新闻,http://31.43.191.125:8080/restream/restream/34886
-民视,http://31.43.191.125:8080/restream/restream/34862
-民视台湾,http://31.43.191.125:8080/restream/restream/34861
-民视新闻,http://31.43.191.125:8080/restream/restream/34860
-民视第一,http://31.43.191.125:8080/restream/restream/34859
-民视综艺,http://31.43.191.125:8080/restream/restream/34858
-华藏卫视,http://31.43.191.125:8080/restream/restream/34784
-客家电视台,http://31.43.191.125:8080/restream/restream/34871
-猪哥亮歌舞厅秀,http://31.43.191.125:8080/restream/restream/34856
-大爱1,http://31.43.191.125:8080/restream/restream/34875
-大爱2,http://31.43.191.125:8080/restream/restream/34874
-好消息,http://31.43.191.125:8080/restream/restream/34791
-好消息2,http://31.43.191.125:8080/restream/restream/34873
-动物星球,http://31.43.191.125:8080/restream/restream/34889
-华纳电视,http://31.43.191.125:8080/restream/restream/34785
-博斯无限,http://31.43.191.125:8080/restream/restream/34885
-博斯运动1,http://31.43.191.125:8080/restream/restream/34884
-博斯运动2,http://31.43.191.125:8080/restream/restream/34883
-博斯高球1,http://31.43.191.125:8080/restream/restream/34882
-博斯高球2,http://31.43.191.125:8080/restream/restream/34881
-卫视电影,http://31.43.191.125:8080/restream/restream/34880
-国家地理,http://31.43.191.125:8080/restream/restream/34877
-好莱坞电影台,http://31.43.191.125:8080/restream/restream/34872
-影迷数位电影,http://31.43.191.125:8080/restream/restream/34868
-探索频道,http://31.43.191.125:8080/restream/restream/34867
-时尚运动 X,http://31.43.191.125:8080/restream/restream/34864
-星卫电影,http://31.43.191.125:8080/restream/restream/34788
-智林體育台,http://31.43.191.125:8080/restream/restream/34863
-爱尔达体育1台,http://31.43.191.125:8080/restream/restream/34857
-緯來戲劇,http://31.43.191.125:8080/restream/restream/34812
-緯來日本,http://31.43.191.125:8080/restream/restream/34809
-緯來育樂,http://31.43.191.125:8080/restream/restream/34808
-緯來電影,http://31.43.191.125:8080/restream/restream/34811
-緯來體育,http://31.43.191.125:8080/restream/restream/34810
-纬来体育,http://31.43.191.125:8080/restream/restream/34855
-纬来戏剧,http://31.43.191.125:8080/restream/restream/34854
-纬来日本台,http://31.43.191.125:8080/restream/restream/34853
-纬来电影,http://31.43.191.125:8080/restream/restream/34852
-纬来精采,http://31.43.191.125:8080/restream/restream/34851
-纬来综合,http://31.43.191.125:8080/restream/restream/34850
-纬来育乐,http://31.43.191.125:8080/restream/restream/34849
-美亚电影,http://31.43.191.125:8080/restream/restream/34848
-美食星球,http://31.43.191.125:8080/restream/restream/34796
-视纳华仁纪实台,http://31.43.191.125:8080/restream/restream/34847
-采昌影劇台,http://31.43.191.125:8080/restream/restream/34846
-金马影院,http://31.43.191.125:8080/restream/restream/34845
-靖天卡通,http://31.43.191.125:8080/restream/restream/34842
-靖天国际台,http://31.43.191.125:8080/restream/restream/34841
-靖天戲劇台,http://31.43.191.125:8080/restream/restream/34840
-靖天日本,http://31.43.191.125:8080/restream/restream/34797
-靖天日本台,http://31.43.191.125:8080/restream/restream/34839
-靖天映画,http://31.43.191.125:8080/restream/restream/34838
-靖天欢乐台,http://31.43.191.125:8080/restream/restream/34837
-靖天电影台,http://31.43.191.125:8080/restream/restream/34836
-靖天育乐台,http://31.43.191.125:8080/restream/restream/34835
-靖洋卡通,http://31.43.191.125:8080/restream/restream/34834
-靖洋戏剧,http://31.43.191.125:8080/restream/restream/34833
-龙华戏剧,http://31.43.191.125:8080/restream/restream/34798
-龙华经典,http://31.43.191.125:8080/restream/restream/34831
-龙华偶像,http://31.43.191.125:8080/restream/restream/34830
-龙华戏剧,http://31.43.191.125:8080/restream/restream/34829
-龙华洋片,http://31.43.191.125:8080/restream/restream/34828
-龙华电影,http://31.43.191.125:8080/restream/restream/34827
-龙华经典,http://31.43.191.125:8080/restream/restream/34826
-龙祥电影,http://31.43.191.125:8080/restream/restream/34825
 
 民视新闻频波,http://211.72.174.95:8117/0.ts
 中视闽南频波,http://211.72.174.95:8113/0.ts
