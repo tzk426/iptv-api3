@@ -58,30 +58,9 @@ LIVE三立,http://8.138.7.223/tv/setnews
 三沙卫视,http://nn.7x9d.cn:80/地方台8563/海南.php?id=ssws
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
-五星体育,http://wsc2007123.myds.me:30100/udp/233.18.204.58:5140
-五星体育,http://www.800128.xyz:62888/rtp/233.18.204.58:5140
-五星体育,http://800128.xyz:62888/rtp/233.18.204.58:5140
-五星体育,http://shenhua.asuscomm.com:8888/rtp/233.18.204.58:5140
-五星体育,http://home.wscxy.fun:30100/udp/233.18.204.58:5140
 重温经典,http://8.138.7.223/tv/cwjd.php
 
-iHOT爱喜剧,http://ch3829.myds.me:4022/rtp/239.94.1.129:5140
-iHOT爱喜剧,http://ch3829.myds.me:4022/rtp/239.94.1.129:5140
-iHOT爱奇谈,http://ch3829.myds.me:4022/rtp/239.94.1.130:5140
-iHOT爱科幻,http://ch3829.myds.me:4022/rtp/239.94.1.131:5140
-iHOT爱院线,http://ch3829.myds.me:4022/rtp/239.94.1.132:5140
-iHOT爱悬疑,http://ch3829.myds.me:4022/rtp/239.94.1.136:5140
-iHOT爱历史,http://ch3829.myds.me:4022/rtp/239.94.1.135:5140
-iHOT爱谍战,http://ch3829.myds.me:4022/rtp/239.94.1.134:5140
-iHOT爱浪漫,http://ch3829.myds.me:4022/rtp/239.94.1.128:5140
-绚影4K,http://ch3829.myds.me:4022/rtp/239.94.1.150:5140
-峨眉电影4K,http://ch3829.myds.me:4022/rtp/239.94.0.103:5140
-华数经典电影,http://ch3829.myds.me:4022/rtp/239.93.1.21:5140
-华语影院,http://ch3829.myds.me:4022/rtp/239.94.1.22:5140
-星光院线,http://ch3829.myds.me:4022/rtp/239.93.1.23:5140
-全球大片,http://ch3829.myds.me:4022/rtp/239.94.1.24:5140
-求索频道,http://ch3829.myds.me:4022/rtp/239.94.1.142:5140
-4K视界,http://ch3829.myds.me:4022/rtp/239.94.1.60:5140
+
 
 
 NewTV超级电影,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
