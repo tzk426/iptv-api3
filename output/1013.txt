@@ -1,189 +1,189 @@
 哈TV有线,#genre#
-公用频道(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_3_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-地方新闻(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_4_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-民视(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_5_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-CNN International(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_6_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-台视(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_7_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-人间卫视(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_8_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-中视(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_9_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-大爱(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_10_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-华视(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_11_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-动物星球(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_12_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-公视(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_13_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-公视台语台(公视2台)(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_14_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-好消息卫星电视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_15_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-原住民族电视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_16_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-客家电视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_17_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-BBC Earth(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_18_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-DISCOVERY(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_19_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-中台湾生活网(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_20_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-旅游生活(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_21_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-卡通频道(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_22_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-CARTOONITO,http://58.99.33.2:1935/liveedge2/uYQLYKdh_23_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-MOMO亲子台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_24_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-东森幼幼台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_25_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-纬来综合台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_26_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-八大第1台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_27_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-八大综合台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_28_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-三立台湾台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_29_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-三立都会台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_30_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-壹电视资讯综合台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_31_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-东森综合台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_32_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-超视(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_33_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-东森购物2台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_34_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-MOMO2台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_35_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-中天综合台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_36_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-东风卫视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_37_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-MUCH TV(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_38_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-地方采风(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_39_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-东森戏剧台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_40_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-八大戏剧台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_41_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-TVBS欢乐台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_42_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-纬来戏剧台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_43_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-高点电视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_44_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-JET 综合台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_45_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-东森购物3台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_46_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-东森购物1台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_47_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-MOMO1台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_48_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-壹电视新闻(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_49_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-年代新闻(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_50_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-东森新闻(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_51_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-华视新闻资讯台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_52_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-民视新闻(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_53_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-三立新闻(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_54_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-TVBS新闻(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_55_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-TVBS(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_56_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-东森财经新闻(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_57_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-非凡新闻台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_58_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-VIVA 1台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_59_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-东森购物5台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_60_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-CATCHPLAY电影台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_61_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-东森电影台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_62_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-纬来电影台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_63_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-冠军电视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_64_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-HBO(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_65_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-东森洋片台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_66_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-中天娱乐台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_67_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-好莱坞电影台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_68_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-amc电影台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_69_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-美丽人生购物台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_70_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-CINEMAX(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_71_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-纬来体育台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_72_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-DAZN 1,http://58.99.33.2:1935/liveedge2/uYQLYKdh_73_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-DAZN 2,http://58.99.33.2:1935/liveedge2/uYQLYKdh_74_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-MOMO综合台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_75_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-博斯运动一台 (HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_76_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-海豚综合台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_77_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-民俗才艺(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_78_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-纬来日本台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_79_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-国兴卫视(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_80_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-冠军梦想台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_81_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-信吉电视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_82_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-生活资讯台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_83_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-AXN(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_84_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-寰宇新闻台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_85_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-信大电视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_86_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-纬来育乐台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_87_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-三立财经新闻台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_88_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-双子卫视(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_89_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-靖天购物一台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_90_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-台湾综合台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_91_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-LS TIME电影台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_92_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-全球财经网频道(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_93_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-诚心电视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_94_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-非凡商业台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_95_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-台湾艺术台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_96_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-运通财经,http://58.99.33.2:1935/liveedge2/uYQLYKdh_97_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-Z频道(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_98_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-霹雳台湾台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_99_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-MTV综合电视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_100_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-BBC Lifestyle Channel(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_101_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-十方法界电视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_102_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-华藏卫星电视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_103_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-Animax(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_104_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-佛卫电视慈悲台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_105_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-八大娱乐台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_106_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-全大电视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_107_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-华艺台湾台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_108_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-彰化生活台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_109_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-天良综合台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_110_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-台湾蕃薯电视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_111_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-富立电视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_112_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-乐视台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_113_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-三圣电视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_114_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-新天地民俗台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_115_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-红豆2台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_116_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-威达超舜生活台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_117_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-天美丽电视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_118_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-大立电视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_119_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-大爱二台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_121_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-智林体育台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_122_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-国会频道1台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_123_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-国会频道2台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_124_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-幸福空间居家台HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_125_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-高点育乐台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_126_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-华视教育体育文化台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_127_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-希望综合台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_131_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-宝岛文化台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_132_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-NHK WORLD PREMIUM(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_135_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-唯心电视台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_140_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-Global Trekker(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_145_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-ROCK Action(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_146_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-TRACE Sport Starts(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_147_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-美食星球频道(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_148_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-寰宇财经台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_149_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-Fun探索娱乐台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_150_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-民视第一台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_151_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-民视台湾台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_152_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-TBC台中生活台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_154_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-台视新闻台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_155_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-台视财经台(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_156_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-台视综合台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_157_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-公视儿少台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_159_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-中视新闻台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_161_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-TaiwanPlus(HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_163_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-BBC NEWS,http://58.99.33.2:1935/liveedge2/uYQLYKdh_164_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-CNA,http://58.99.33.2:1935/liveedge2/uYQLYKdh_165_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-FRANCE 24(English),http://58.99.33.2:1935/liveedge2/uYQLYKdh_166_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-A-One (HD),http://58.99.33.2:1935/liveedge2/uYQLYKdh_167_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-LOVE NATURE,http://58.99.33.2:1935/liveedge2/uYQLYKdh_168_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-TV5MONDE,http://58.99.33.2:1935/liveedge2/uYQLYKdh_170_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-Arirang TV,http://58.99.33.2:1935/liveedge2/uYQLYKdh_171_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-亚洲旅游台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_172_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-好消息二台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_203_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-Discovery Asia,http://58.99.33.2:1935/liveedge2/uYQLYKdh_200_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-Discovery 科学频道,http://58.99.33.2:1935/liveedge2/uYQLYKdh_201_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-DMAX,http://58.99.33.2:1935/liveedge2/uYQLYKdh_202_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-DREAMWORKS,http://58.99.33.2:1935/liveedge2/uYQLYKdh_207_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-Cbeebies,http://58.99.33.2:1935/liveedge2/uYQLYKdh_209_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-AFN亚洲美食频道,http://58.99.33.2:1935/liveedge2/uYQLYKdh_211_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-BBC Lifestyle Channel,http://58.99.33.2:1935/liveedge2/uYQLYKdh_214_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-EVE,http://58.99.33.2:1935/liveedge2/uYQLYKdh_215_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-HBO HD,http://58.99.33.2:1935/liveedge2/uYQLYKdh_220_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-HBO Signature,http://58.99.33.2:1935/liveedge2/uYQLYKdh_221_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-HBO Family,http://58.99.33.2:1935/liveedge2/uYQLYKdh_222_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-HBO Hits,http://58.99.33.2:1935/liveedge2/uYQLYKdh_223_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-TVN,http://58.99.33.2:1935/liveedge2/uYQLYKdh_225_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-博斯高球一台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_242_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-博斯网球台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_243_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-博斯运动二台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_244_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-博斯高球二台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_245_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-博斯无限台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_246_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-博斯无限二台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_247_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-博斯魅力网,http://58.99.33.2:1935/liveedge2/uYQLYKdh_248_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+公用频道(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_3_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+地方新闻(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_4_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+民视(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_5_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+CNN International(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_6_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+台视(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_7_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+人间卫视(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_8_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+中视(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_9_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+大爱(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_10_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+华视(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_11_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+动物星球(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_12_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+公视(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_13_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+公视台语台(公视2台)(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_14_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+好消息卫星电视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_15_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+原住民族电视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_16_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+客家电视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_17_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+BBC Earth(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_18_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+DISCOVERY(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_19_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+中台湾生活网(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_20_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+旅游生活(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_21_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+卡通频道(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_22_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+CARTOONITO,http://58.99.33.2:1935/liveedge2/ElPTxynm_23_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+MOMO亲子台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_24_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+东森幼幼台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_25_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+纬来综合台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_26_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+八大第1台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_27_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+八大综合台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_28_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+三立台湾台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_29_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+三立都会台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_30_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+壹电视资讯综合台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_31_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+东森综合台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_32_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+超视(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_33_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+东森购物2台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_34_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+MOMO2台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_35_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+中天综合台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_36_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+东风卫视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_37_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+MUCH TV(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_38_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+地方采风(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_39_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+东森戏剧台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_40_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+八大戏剧台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_41_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+TVBS欢乐台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_42_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+纬来戏剧台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_43_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+高点电视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_44_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+JET 综合台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_45_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+东森购物3台,http://58.99.33.2:1935/liveedge2/ElPTxynm_46_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+东森购物1台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_47_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+MOMO1台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_48_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+壹电视新闻(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_49_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+年代新闻(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_50_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+东森新闻(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_51_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+华视新闻资讯台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_52_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+民视新闻(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_53_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+三立新闻(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_54_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+TVBS新闻(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_55_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+TVBS(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_56_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+东森财经新闻(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_57_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+非凡新闻台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_58_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+VIVA 1台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_59_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+东森购物5台,http://58.99.33.2:1935/liveedge2/ElPTxynm_60_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+CATCHPLAY电影台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_61_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+东森电影台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_62_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+纬来电影台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_63_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+冠军电视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_64_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+HBO(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_65_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+东森洋片台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_66_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+中天娱乐台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_67_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+好莱坞电影台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_68_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+amc电影台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_69_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+美丽人生购物台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_70_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+CINEMAX(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_71_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+纬来体育台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_72_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+DAZN 1,http://58.99.33.2:1935/liveedge2/ElPTxynm_73_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+DAZN 2,http://58.99.33.2:1935/liveedge2/ElPTxynm_74_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+MOMO综合台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_75_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+博斯运动一台 (HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_76_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+海豚综合台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_77_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+民俗才艺(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_78_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+纬来日本台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_79_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+国兴卫视(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_80_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+冠军梦想台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_81_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+信吉电视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_82_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+生活资讯台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_83_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+AXN(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_84_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+寰宇新闻台,http://58.99.33.2:1935/liveedge2/ElPTxynm_85_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+信大电视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_86_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+纬来育乐台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_87_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+三立财经新闻台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_88_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+双子卫视(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_89_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+靖天购物一台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_90_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+台湾综合台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_91_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+LS TIME电影台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_92_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+全球财经网频道(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_93_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+诚心电视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_94_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+非凡商业台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_95_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+台湾艺术台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_96_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+运通财经,http://58.99.33.2:1935/liveedge2/ElPTxynm_97_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+Z频道(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_98_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+霹雳台湾台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_99_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+MTV综合电视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_100_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+BBC Lifestyle Channel(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_101_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+十方法界电视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_102_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+华藏卫星电视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_103_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+Animax(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_104_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+佛卫电视慈悲台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_105_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+八大娱乐台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_106_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+全大电视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_107_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+华艺台湾台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_108_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+彰化生活台,http://58.99.33.2:1935/liveedge2/ElPTxynm_109_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+天良综合台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_110_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+台湾蕃薯电视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_111_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+富立电视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_112_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+乐视台,http://58.99.33.2:1935/liveedge2/ElPTxynm_113_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+三圣电视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_114_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+新天地民俗台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_115_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+红豆2台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_116_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+威达超舜生活台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_117_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+天美丽电视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_118_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+大立电视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_119_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+大爱二台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_121_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+智林体育台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_122_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+国会频道1台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_123_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+国会频道2台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_124_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+幸福空间居家台HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_125_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+高点育乐台,http://58.99.33.2:1935/liveedge2/ElPTxynm_126_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+华视教育体育文化台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_127_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+希望综合台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_131_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+宝岛文化台,http://58.99.33.2:1935/liveedge2/ElPTxynm_132_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+NHK WORLD PREMIUM(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_135_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+唯心电视台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_140_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+Global Trekker(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_145_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+ROCK Action(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_146_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+TRACE Sport Starts(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_147_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+美食星球频道(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_148_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+寰宇财经台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_149_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+Fun探索娱乐台,http://58.99.33.2:1935/liveedge2/ElPTxynm_150_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+民视第一台,http://58.99.33.2:1935/liveedge2/ElPTxynm_151_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+民视台湾台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_152_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+TBC台中生活台,http://58.99.33.2:1935/liveedge2/ElPTxynm_154_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+台视新闻台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_155_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+台视财经台(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_156_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+台视综合台,http://58.99.33.2:1935/liveedge2/ElPTxynm_157_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+公视儿少台,http://58.99.33.2:1935/liveedge2/ElPTxynm_159_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+中视新闻台,http://58.99.33.2:1935/liveedge2/ElPTxynm_161_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+TaiwanPlus(HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_163_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+BBC NEWS,http://58.99.33.2:1935/liveedge2/ElPTxynm_164_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+CNA,http://58.99.33.2:1935/liveedge2/ElPTxynm_165_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+FRANCE 24(English),http://58.99.33.2:1935/liveedge2/ElPTxynm_166_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+A-One (HD),http://58.99.33.2:1935/liveedge2/ElPTxynm_167_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+LOVE NATURE,http://58.99.33.2:1935/liveedge2/ElPTxynm_168_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+TV5MONDE,http://58.99.33.2:1935/liveedge2/ElPTxynm_170_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+Arirang TV,http://58.99.33.2:1935/liveedge2/ElPTxynm_171_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+亚洲旅游台,http://58.99.33.2:1935/liveedge2/ElPTxynm_172_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+好消息二台,http://58.99.33.2:1935/liveedge2/ElPTxynm_203_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+Discovery Asia,http://58.99.33.2:1935/liveedge2/ElPTxynm_200_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+Discovery 科学频道,http://58.99.33.2:1935/liveedge2/ElPTxynm_201_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+DMAX,http://58.99.33.2:1935/liveedge2/ElPTxynm_202_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+DREAMWORKS,http://58.99.33.2:1935/liveedge2/ElPTxynm_207_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+Cbeebies,http://58.99.33.2:1935/liveedge2/ElPTxynm_209_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+AFN亚洲美食频道,http://58.99.33.2:1935/liveedge2/ElPTxynm_211_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+BBC Lifestyle Channel,http://58.99.33.2:1935/liveedge2/ElPTxynm_214_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+EVE,http://58.99.33.2:1935/liveedge2/ElPTxynm_215_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+HBO HD,http://58.99.33.2:1935/liveedge2/ElPTxynm_220_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+HBO Signature,http://58.99.33.2:1935/liveedge2/ElPTxynm_221_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+HBO Family,http://58.99.33.2:1935/liveedge2/ElPTxynm_222_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+HBO Hits,http://58.99.33.2:1935/liveedge2/ElPTxynm_223_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+TVN,http://58.99.33.2:1935/liveedge2/ElPTxynm_225_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+博斯高球一台,http://58.99.33.2:1935/liveedge2/ElPTxynm_242_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+博斯网球台,http://58.99.33.2:1935/liveedge2/ElPTxynm_243_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+博斯运动二台,http://58.99.33.2:1935/liveedge2/ElPTxynm_244_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+博斯高球二台,http://58.99.33.2:1935/liveedge2/ElPTxynm_245_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+博斯无限台,http://58.99.33.2:1935/liveedge2/ElPTxynm_246_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+博斯无限二台,http://58.99.33.2:1935/liveedge2/ElPTxynm_247_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+博斯魅力网,http://58.99.33.2:1935/liveedge2/ElPTxynm_248_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
 
 哈TV18,#genre#
 
-彩虹频道,http://58.99.33.2:1935/liveedge2/uYQLYKdh_408_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-松视1台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_405_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-松视2台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_406_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-松视3台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_407_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-松视4台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_404_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-玩家频道,http://58.99.33.2:1935/liveedge2/uYQLYKdh_401_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-Happy,http://58.99.33.2:1935/liveedge2/uYQLYKdh_402_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-Hot,http://58.99.33.2:1935/liveedge2/uYQLYKdh_403_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-乐活频道,http://58.99.33.2:1935/liveedge2/uYQLYKdh_410_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-潘朵啦高画质玩美台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_411_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-潘朵啦高画质粉红台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_412_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-惊豔成人电影台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_413_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-香蕉台,http://58.99.33.2:1935/liveedge2/uYQLYKdh_414_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+彩虹频道,http://58.99.33.2:1935/liveedge2/ElPTxynm_408_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+松视1台,http://58.99.33.2:1935/liveedge2/ElPTxynm_405_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+松视2台,http://58.99.33.2:1935/liveedge2/ElPTxynm_406_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+松视3台,http://58.99.33.2:1935/liveedge2/ElPTxynm_407_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+松视4台,http://58.99.33.2:1935/liveedge2/ElPTxynm_404_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+玩家频道,http://58.99.33.2:1935/liveedge2/ElPTxynm_401_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+Happy,http://58.99.33.2:1935/liveedge2/ElPTxynm_402_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+Hot,http://58.99.33.2:1935/liveedge2/ElPTxynm_403_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+乐活频道,http://58.99.33.2:1935/liveedge2/ElPTxynm_410_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+潘朵啦高画质玩美台,http://58.99.33.2:1935/liveedge2/ElPTxynm_411_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+潘朵啦高画质粉红台,http://58.99.33.2:1935/liveedge2/ElPTxynm_412_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+惊豔成人电影台,http://58.99.33.2:1935/liveedge2/ElPTxynm_413_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+香蕉台,http://58.99.33.2:1935/liveedge2/ElPTxynm_414_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
