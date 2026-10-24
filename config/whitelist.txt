@@ -495,11 +495,9 @@ CHC家庭影院,http://192.168.50.97:1234/644368373
 
 🎵音乐频道,#genre#
 音乐小石榴,http://hy.tzk.cc.cd/?id=17091681
-音乐小石榴,https://iptv.catvod.com/huya/17091681
 音乐小石榴,https://live.ottiptv.cc/huya/17091681
 秋月剪水,https://douyu.tzk.cc.cd/?id=9588891
 秋月剪水,http://live.nctv.top/douyu1.php?id=9588891
-秋月剪水,https://iptv.catvod.com/douyu/9588891
 喵喵音乐台,https://douyu.tzk.cc.cd/?id=9568091
 喵喵音乐台,http://live.nctv.top/douyu1.php?id=9568091
 阿7点歌台,https://douyu.tzk.cc.cd/?id=3186217
