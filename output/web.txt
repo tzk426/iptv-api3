@@ -1,3 +1,77 @@
+
+sop,#genre#
+HOY TV,sop://br4.667788c.cc:80/20338
+HOY TV,sop://br4.gmtv.net:80/20338
+HOY資訊臺,sop://br4.667788c.cc:80/40008
+HOY資訊臺,sop://br4.gmtv.net:80/40008
+NOW LIVE,sop://br4.667788c.cc:80/40001
+NOW LIVE,sop://br4.gmtv.net:80/40001
+NOW NEWS,sop://br4.667788c.cc:80/43002
+NOW NEWS,sop://br4.gmtv.net:80/43002
+RTHK TV 31,sop://br4.667788c.cc:80/40003
+RTHK TV 31,sop://br4.gmtv.net:80/40003
+RTHK TV 32,sop://br4.667788c.cc:80/40004
+RTHK TV 32,sop://br4.gmtv.net:80/40004
+TVB J1,sop://br4.667788c.cc:80/40032
+TVB J1,sop://br4.gmtv.net:80/40032
+TVB PLUS,sop://br4.667788c.cc:80/20098
+TVB PLUS,sop://br4.gmtv.net:80/20098
+TVBS 新聞,sop://br4.667788c.cc:80/23103
+TVBS 新聞,sop://br4.gmtv.net:80/23103
+TVB娛樂新聞臺,sop://br4.667788c.cc:80/20104
+TVB娛樂新聞臺,sop://br4.gmtv.net:80/20104
+TVB明珠臺,sop://br4.667788c.cc:80/23111
+TVB明珠臺,sop://br4.gmtv.net:80/23111
+TVB星河頻道,sop://br4.667788c.cc:80/23114
+TVB星河頻道,sop://br4.gmtv.net:80/23114
+TVB無線新聞臺,sop://br4.667788c.cc:80/23110
+TVB無線新聞臺,sop://br4.gmtv.net:80/23110
+TVB經典,sop://br4.667788c.cc:80/23096
+TVB經典,sop://br4.gmtv.net:80/23096
+VIU TV 6,sop://br4.667788c.cc:80/40025
+VIU TV 6,sop://br4.gmtv.net:80/40025
+VIUTV,sop://br4.667788c.cc:80/23105
+VIUTV,sop://br4.gmtv.net:80/23105
+新時代 1,sop://br4.667788c.cc:80/43026
+新時代 1,sop://br4.gmtv.net:80/43026
+新時代 2,sop://br4.667788c.cc:80/40021
+新時代 2,sop://br4.gmtv.net:80/40021
+新時代西部,sop://br4.667788c.cc:80/40022
+新時代西部,sop://br4.gmtv.net:80/40022
+有線18臺,sop://br4.667788c.cc:80/20100
+有線18臺,sop://br4.gmtv.net:80/20100
+澳門蓮花,sop://br4.667788c.cc:80/40023
+澳門蓮花,sop://br4.gmtv.net:80/40023
+澳門衛視,sop://br4.667788c.cc:80/40017
+澳門衛視,sop://br4.gmtv.net:80/40017
+罪案偵緝,sop://br4.667788c.cc:80/20250
+罪案偵緝,sop://br4.gmtv.net:80/20250
+翡翠臺,sop://br4.667788c.cc:80/23106
+翡翠臺,sop://br4.gmtv.net:80/23106
+耀才財經,sop://br4.667788c.cc:80/40016
+耀才財經,sop://br4.gmtv.net:80/40016
+陽光衛視,sop://br4.667788c.cc:80/40028
+陽光衛視,sop://br4.gmtv.net:80/40028
+香港國際財經臺,sop://br4.667788c.cc:80/40013
+香港國際財經臺,sop://br4.gmtv.net:80/40013
+香港衛視HKS,sop://br4.667788c.cc:80/40010
+香港衛視HKS,sop://br4.gmtv.net:80/40010
+鳳凰中文臺,sop://br4.667788c.cc:80/20108
+鳳凰中文臺,sop://br4.gmtv.net:80/20108
+鳳凰衛視臺,sop://br4.667788c.cc:80/20107
+鳳凰衛視臺,sop://br4.gmtv.net:80/20107
+鳳凰資訊臺,sop://br4.667788c.cc:80/20109
+鳳凰資訊臺,sop://br4.gmtv.net:80/20109
+鳳凰香港,sop://br4.667788c.cc:80/20107
+鳳凰香港,sop://br4.gmtv.net:80/20107
+黃金翡翠臺,sop://br4.667788c.cc:80/40009
+黃金翡翠臺,sop://br4.gmtv.net:80/40009
+CCTV13新聞,sop://br4.667788c.cc:80/23016
+CCTV13新聞,sop://br4.gmtv.net:80/23016
+CCTV14少兒,sop://br4.667788c.cc:80/20017
+CCTV14少兒,sop://br4.gmtv.net:80/20017
+CCTV15音樂,sop://br4.667788c.cc:80/20018
+
 央视网频,#genre#
 CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/
 CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/
@@ -20,7 +94,7 @@ CCTV-17 农业农村,webview://https://tv.cctv.com/live/cctv17/
 CCTV-4 欧洲,webview://https://tv.cctv.com/live/cctveurope/
 CCTV-4 美洲,webview://https://tv.cctv.com/live/cctvamerica/
 
-央视卫视,#genre#
+央视卫视web,#genre#
 CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV-2 财经,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV-4 中文国际,webview://https://yangshipin.cn/tv/home?pid=600001814
