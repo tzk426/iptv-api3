@@ -1,5 +1,11 @@
 
 sop,#genre#
+星影台mitv,mitv://135.148.104.228:19806/41077deb435e46bfa7f7ffbfd352f254
+鳳凰中文臺tvbus,tvbus://3iUUm17iL22DhjopDNMjKaAVVUGgMzwCwUyg8bwvWRb6U5LNEu#tvbus://3iUUm17iL22DhjopDJjpJqWTvogs68hBLraNQAuN2hNnDcwNwU
+鳳凰衛視臺tvbus,tvbus://4T1W2W4bk8TNJn3orFEaii2ytXWmFhV4U81JHyqQYeTfsauWdE#tvbus://4T1W2W4bk8TNJn3orFuuf6NM9NR5z2PJCknRe7URT6FaAUsWYr
+鳳凰資訊臺tvbus,tvbus://3u98EH8RMRFkErMsDVMSg7ET5ZgwCzFnVdtNr2vLwoBgBfq7Zv#tvbus://3u98EH8RMRFkErMsDQYdctnhPxeMjwgojFxA8sAtVaKgbVqunQ
+鳳凰香港tvbus,tvbus://3SZpYApwpMkeekjk2uTrYuPhjVNDwRTvpMtu4NrdqUA6FFg8Tf#tvbus://3SZpYApwpMkeekjk2mCzz8iWDAWwDwiSKKX4s1gaGLb6p5kajL
+黃金翡翠臺tvbus,tvbus://3YFLyZaJxEbtGgoYUEQSGpD7RaetLSgB3G3j3YwUyfnwcfTEiN#tvbus://3YFLyZaJxEbtGgoYUCjbcdFMauudguMLhKe1Tww9Hf1NphCvwM
 HOY TV,sop://br4.667788c.cc:80/20338
 HOY TV,sop://br4.gmtv.net:80/20338
 HOY資訊臺,sop://br4.667788c.cc:80/40008
