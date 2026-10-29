@@ -1,5 +1,6 @@
 
 sop,#genre#
+CCTV1rrs,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
 星影台mitv,mitv://135.148.104.228:19806/41077deb435e46bfa7f7ffbfd352f254
 鳳凰中文臺tvbus,tvbus://3iUUm17iL22DhjopDNMjKaAVVUGgMzwCwUyg8bwvWRb6U5LNEu#tvbus://3iUUm17iL22DhjopDJjpJqWTvogs68hBLraNQAuN2hNnDcwNwU
 鳳凰衛視臺tvbus,tvbus://4T1W2W4bk8TNJn3orFEaii2ytXWmFhV4U81JHyqQYeTfsauWdE#tvbus://4T1W2W4bk8TNJn3orFuuf6NM9NR5z2PJCknRe7URT6FaAUsWYr
