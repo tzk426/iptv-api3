@@ -72,7 +72,7 @@ CCTV14少兒,sop://br4.667788c.cc:80/20017
 CCTV14少兒,sop://br4.gmtv.net:80/20017
 CCTV15音樂,sop://br4.667788c.cc:80/20018
 
-央视网频,#genre#
+央视网频web,#genre#
 CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/
 CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/
 CCTV-3 综艺,webview://https://tv.cctv.com/live/cctv3/
