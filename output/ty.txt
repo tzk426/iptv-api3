@@ -45,11 +45,6 @@ IHOT爱院线,http://192.187.124.34:81/live/ihotayx.m3u8
 湖南国际,http://192.187.124.34:81/live/hngj.m3u8
 湖南导视,http://192.187.124.34:81/live/hnda.m3u8
 
-
-
-重温经典,http://8.138.7.223/tv/cwjd.php
-重温经典,http://k.061899.xyz/m.php?id=cwjd
-
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 中天新闻,http://jnzq.ohoyee.com:9080/live/332332-ztxw2.m3u8
 中天新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
@@ -159,6 +154,7 @@ CCTV-风云音乐,http://173.208.212.130:8181/720p/fyyy.m3u8
 CCTV-央视台球,http://173.208.212.130:8181/720p/ystq.m3u8
 CCTV-风云足球,http://173.208.212.130:8181/720p/fyzq.m3u8
 CCTV-高尔夫网球,http://173.208.212.130:8181/720p/gefwq.m3u8
+
 CCTV-1综合,http://173.208.212.130:8181/1080p/cctv1.m3u8
 CCTV-2财经,http://173.208.212.130:8181/1080p/cctv2.m3u8
 CCTV-3综艺,http://173.208.212.130:8181/1080p/cctv3.m3u8
