@@ -1,84 +1,4 @@
 
-sop,#genre#
-CCTV1rrs,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
-星影台mitv,mitv://135.148.104.228:19806/41077deb435e46bfa7f7ffbfd352f254
-鳳凰中文臺tvbus,tvbus://3iUUm17iL22DhjopDNMjKaAVVUGgMzwCwUyg8bwvWRb6U5LNEu#tvbus://3iUUm17iL22DhjopDJjpJqWTvogs68hBLraNQAuN2hNnDcwNwU
-鳳凰衛視臺tvbus,tvbus://4T1W2W4bk8TNJn3orFEaii2ytXWmFhV4U81JHyqQYeTfsauWdE#tvbus://4T1W2W4bk8TNJn3orFuuf6NM9NR5z2PJCknRe7URT6FaAUsWYr
-鳳凰資訊臺tvbus,tvbus://3u98EH8RMRFkErMsDVMSg7ET5ZgwCzFnVdtNr2vLwoBgBfq7Zv#tvbus://3u98EH8RMRFkErMsDQYdctnhPxeMjwgojFxA8sAtVaKgbVqunQ
-鳳凰香港tvbus,tvbus://3SZpYApwpMkeekjk2uTrYuPhjVNDwRTvpMtu4NrdqUA6FFg8Tf#tvbus://3SZpYApwpMkeekjk2mCzz8iWDAWwDwiSKKX4s1gaGLb6p5kajL
-黃金翡翠臺tvbus,tvbus://3YFLyZaJxEbtGgoYUEQSGpD7RaetLSgB3G3j3YwUyfnwcfTEiN#tvbus://3YFLyZaJxEbtGgoYUCjbcdFMauudguMLhKe1Tww9Hf1NphCvwM
-HOY TV,sop://br4.667788c.cc:80/20338
-HOY TV,sop://br4.gmtv.net:80/20338
-HOY資訊臺,sop://br4.667788c.cc:80/40008
-HOY資訊臺,sop://br4.gmtv.net:80/40008
-NOW LIVE,sop://br4.667788c.cc:80/40001
-NOW LIVE,sop://br4.gmtv.net:80/40001
-NOW NEWS,sop://br4.667788c.cc:80/43002
-NOW NEWS,sop://br4.gmtv.net:80/43002
-RTHK TV 31,sop://br4.667788c.cc:80/40003
-RTHK TV 31,sop://br4.gmtv.net:80/40003
-RTHK TV 32,sop://br4.667788c.cc:80/40004
-RTHK TV 32,sop://br4.gmtv.net:80/40004
-TVB J1,sop://br4.667788c.cc:80/40032
-TVB J1,sop://br4.gmtv.net:80/40032
-TVB PLUS,sop://br4.667788c.cc:80/20098
-TVB PLUS,sop://br4.gmtv.net:80/20098
-TVBS 新聞,sop://br4.667788c.cc:80/23103
-TVBS 新聞,sop://br4.gmtv.net:80/23103
-TVB娛樂新聞臺,sop://br4.667788c.cc:80/20104
-TVB娛樂新聞臺,sop://br4.gmtv.net:80/20104
-TVB明珠臺,sop://br4.667788c.cc:80/23111
-TVB明珠臺,sop://br4.gmtv.net:80/23111
-TVB星河頻道,sop://br4.667788c.cc:80/23114
-TVB星河頻道,sop://br4.gmtv.net:80/23114
-TVB無線新聞臺,sop://br4.667788c.cc:80/23110
-TVB無線新聞臺,sop://br4.gmtv.net:80/23110
-TVB經典,sop://br4.667788c.cc:80/23096
-TVB經典,sop://br4.gmtv.net:80/23096
-VIU TV 6,sop://br4.667788c.cc:80/40025
-VIU TV 6,sop://br4.gmtv.net:80/40025
-VIUTV,sop://br4.667788c.cc:80/23105
-VIUTV,sop://br4.gmtv.net:80/23105
-新時代 1,sop://br4.667788c.cc:80/43026
-新時代 1,sop://br4.gmtv.net:80/43026
-新時代 2,sop://br4.667788c.cc:80/40021
-新時代 2,sop://br4.gmtv.net:80/40021
-新時代西部,sop://br4.667788c.cc:80/40022
-新時代西部,sop://br4.gmtv.net:80/40022
-有線18臺,sop://br4.667788c.cc:80/20100
-有線18臺,sop://br4.gmtv.net:80/20100
-澳門蓮花,sop://br4.667788c.cc:80/40023
-澳門蓮花,sop://br4.gmtv.net:80/40023
-澳門衛視,sop://br4.667788c.cc:80/40017
-澳門衛視,sop://br4.gmtv.net:80/40017
-罪案偵緝,sop://br4.667788c.cc:80/20250
-罪案偵緝,sop://br4.gmtv.net:80/20250
-翡翠臺,sop://br4.667788c.cc:80/23106
-翡翠臺,sop://br4.gmtv.net:80/23106
-耀才財經,sop://br4.667788c.cc:80/40016
-耀才財經,sop://br4.gmtv.net:80/40016
-陽光衛視,sop://br4.667788c.cc:80/40028
-陽光衛視,sop://br4.gmtv.net:80/40028
-香港國際財經臺,sop://br4.667788c.cc:80/40013
-香港國際財經臺,sop://br4.gmtv.net:80/40013
-香港衛視HKS,sop://br4.667788c.cc:80/40010
-香港衛視HKS,sop://br4.gmtv.net:80/40010
-鳳凰中文臺,sop://br4.667788c.cc:80/20108
-鳳凰中文臺,sop://br4.gmtv.net:80/20108
-鳳凰衛視臺,sop://br4.667788c.cc:80/20107
-鳳凰衛視臺,sop://br4.gmtv.net:80/20107
-鳳凰資訊臺,sop://br4.667788c.cc:80/20109
-鳳凰資訊臺,sop://br4.gmtv.net:80/20109
-鳳凰香港,sop://br4.667788c.cc:80/20107
-鳳凰香港,sop://br4.gmtv.net:80/20107
-黃金翡翠臺,sop://br4.667788c.cc:80/40009
-黃金翡翠臺,sop://br4.gmtv.net:80/40009
-CCTV13新聞,sop://br4.667788c.cc:80/23016
-CCTV13新聞,sop://br4.gmtv.net:80/23016
-CCTV14少兒,sop://br4.667788c.cc:80/20017
-CCTV14少兒,sop://br4.gmtv.net:80/20017
-CCTV15音樂,sop://br4.667788c.cc:80/20018
-
 央视网频web,#genre#
 CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/
 CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/
@@ -716,3 +636,12 @@ channelId=722b4fa2b7fa4cf9b01347414b4fbc1a&type=1&siteId=ee5e92ed238644368bd76f8
 新疆10套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=21
 新疆11套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=22
 新疆12套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
+tvbus,#genre#
+松視1臺,tvbus4://4ZGxgSYfbSu5g3wvMYR8HyrRYj2r4F259RJbVCYdMKYKXHkPea
+松視1臺 (2),tvbus4://4ZGxgSYfbSu5g3wvMePbWiR1RkVJhGfnZ2pbWuS9mqiWnKnuSD
+松視2臺,tvbus4://4mrRVwxGCZGg63RsXU7SpVC6t2J9QhZ6tdo9JnNjGo6EgwjJ9b
+松視2臺 (2),tvbus4://4mrRVwxGCZGg63RsXUeWKrG8TYU6eo86rSLvy26PTJeuX83D51
+松視3臺,tvbus4://3P5xR67aoxDGtgeUSuAbh9to5QR5UXQ6Psg7pEzNsU8ArGuiGJ
+松視3臺 (2),tvbus://3P5xR67aoxDGtgeUSpvo8txG3rC891t3vhi6Twku7mCZtoM2hM
+潘多拉玩美,tvbus://4PX3vj99PSy4E7HP5W5VApkFCUMQXziH6z9yofHYKP2ntUToGM
+潘多拉玩美 (2),tvbus://4PX3vj99PSy4E7HP5VKR7MsDxPsryvN9CuEnDFLMNfoFJezYN4
