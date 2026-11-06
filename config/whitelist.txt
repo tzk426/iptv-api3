@@ -285,6 +285,11 @@ CHC动作电影,http://bztv.tvbus.cc:8081/cdnlive/chcdz.m3u8
 咪视界-31,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227439/index.m3u8
 咪视界-32,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227381/index.m3u8
 🐹咪咕央卫,#genre#
+吉林都市,http://bobohome.ignorelist.com:20247/migu?id=968553190
+吉林综艺,http://bobohome.ignorelist.com:20247/migu?id=968553163
+吉林影视,http://bobohome.ignorelist.com:20247/migu?id=968553184
+吉林乡村,http://bobohome.ignorelist.com:20247/migu?id=968553176
+吉林生活,http://bobohome.ignorelist.com:20247/migu?id=968553133
 上海新闻综合,http://bobohome.ignorelist.com:20247/migu?id=651632657
 上视东方影视,http://bobohome.ignorelist.com:20247/migu?id=617290047
 上海第一财经,http://bobohome.ignorelist.com:20247/migu?id=608780988
@@ -365,7 +370,11 @@ CHC家庭影院,http://bobohome.ignorelist.com:20247/migu?id=644368373
 今日说法,http://bobohome.ignorelist.com:20247/migu?id=629943678
 血色山河·抗日战争影像志,http://bobohome.ignorelist.com:20247/migu?id=713600957   
 
-
+吉林都市,http://192.168.50.97:1234/968553190
+吉林综艺,http://192.168.50.97:1234/968553163
+吉林影视,http://192.168.50.97:1234/968553184
+吉林乡村,http://192.168.50.97:1234/968553176
+吉林生活,http://192.168.50.97:1234/968553133
 上海新闻综合,http://192.168.50.97:1234/651632657
 上视东方影视,http://192.168.50.97:1234/617290047
 上海第一财经,http://192.168.50.97:1234/608780988
