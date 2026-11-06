@@ -274,6 +274,11 @@ CCTV-8K,http://107.150.60.122/live/cctv8k.m3u8
 电影周星驰,http://107.150.60.122/live/lbzxc.m3u8
 电影林正英,http://107.150.60.122/live/lblzy.m3u8
 🐹咪咕央卫,#genre#
+吉林都市,http://bobohome.ignorelist.com:20247/migu?id=968553190
+吉林综艺,http://bobohome.ignorelist.com:20247/migu?id=968553163
+吉林影视,http://bobohome.ignorelist.com:20247/migu?id=968553184
+吉林乡村,http://bobohome.ignorelist.com:20247/migu?id=968553176
+吉林生活,http://bobohome.ignorelist.com:20247/migu?id=968553133
 上海新闻综合,http://bobohome.ignorelist.com:20247/migu?id=651632657
 上视东方影视,http://bobohome.ignorelist.com:20247/migu?id=617290047
 上海第一财经,http://bobohome.ignorelist.com:20247/migu?id=608780988
@@ -404,6 +409,11 @@ CGTN,http://bobohome.ignorelist.com:20247/migu?id=609017205
 吉林卫视,http://bobohome.ignorelist.com:20247/migu?id=947472500
 三沙卫视,http://bobohome.ignorelist.com:20247/migu?id=961023778
 
+吉林都市,http://192.168.50.97:1234/968553190
+吉林综艺,http://192.168.50.97:1234/968553163
+吉林影视,http://192.168.50.97:1234/968553184
+吉林乡村,http://192.168.50.97:1234/968553176
+吉林生活,http://192.168.50.97:1234/968553133
 上海新闻综合,http://192.168.50.97:1234/651632657
 上视东方影视,http://192.168.50.97:1234/617290047
 上海第一财经,http://192.168.50.97:1234/608780988
@@ -1074,17 +1084,12 @@ CCTV-8K,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
-湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
-东南卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视4K,https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
-浙江卫视4K,http://m.061899.xyz/mg/zjws
 广东卫视4K,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
-深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 南国都市4K,http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
-南国都市4K,http://r.jdshipin.com/nWaZO
 北京卫视4K,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.20:1234
 广东卫视4K,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.23:1234
 深圳卫视4K,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.44:1234
@@ -1155,43 +1160,6 @@ CCTV-8K,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
 
 
 
-浙江卫视,http://k.061899.xyz/k.php?id=zjws
-广东卫视,http://k.061899.xyz/k.php?id=gdws
-江苏卫视,http://k.061899.xyz/k.php?id=jsws
-东方卫视,http://k.061899.xyz/k.php?id=dfws
-陕西卫视,http://k.061899.xyz/k.php?id=sxws
-江西卫视,http://k.061899.xyz/k.php?id=jxws
-湖北卫视,http://k.061899.xyz/k.php?id=hubws
-吉林卫视,http://k.061899.xyz/k.php?id=jlws
-青海卫视,http://k.061899.xyz/k.php?id=qhws
-河南卫视,http://k.061899.xyz/k.php?id=hnws
-东南卫视,http://k.061899.xyz/k.php?id=dnws
-大湾区卫视,http://k.061899.xyz/k.php?id=dwqws
-海南卫视,http://k.061899.xyz/k.php?id=hinws
-湖南卫视,http://k.061899.xyz/k.php?id=hunws
-北京卫视,http://k.061899.xyz/k.php?id=bjws
-天津卫视,http://k.061899.xyz/k.php?id=tjws
-重庆卫视,http://k.061899.xyz/k.php?id=cqws
-黑龙江卫视,http://k.061899.xyz/k.php?id=hljws
-吉林卫视,http://k.061899.xyz/k.php?id=jlws
-辽宁卫视,http://k.061899.xyz/k.php?id=lnws
-内蒙古卫视,http://k.061899.xyz/k.php?id=nmgws
-宁夏卫视,http://k.061899.xyz/k.php?id=nxws
-甘肃卫视,http://k.061899.xyz/k.php?id=gsws
-安多卫视,http://k.061899.xyz/k.php?id=adws
-河北卫视,http://k.061899.xyz/k.php?id=hbws
-山西卫视,http://k.061899.xyz/k.php?id=sxiws
-山东卫视,http://k.061899.xyz/k.php?id=sdws
-安徽卫视,http://k.061899.xyz/k.php?id=ahws
-深圳卫视,http://k.061899.xyz/k.php?id=szws
-广西卫视,http://k.061899.xyz/k.php?id=gxws
-云南卫视,http://k.061899.xyz/k.php?id=ynws
-贵州卫视,http://k.061899.xyz/k.php?id=gzws
-四川卫视,http://k.061899.xyz/k.php?id=scws
-新疆卫视,http://k.061899.xyz/k.php?id=xjws
-西藏卫视,http://k.061899.xyz/k.php?id=xzws
-兵团卫视,http://k.061899.xyz/k.php?id=btws
-广东影视,http://k.061899.xyz/k.php?id=gdys
 
 
 
@@ -1456,51 +1424,6 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 
 
 
-金鹰纪实,http://thhomes.cn:4000/rtp/239.3.1.58:8156
-快乐垂钓,http://thhomes.cn:4000/rtp/239.3.1.164:8001
-中国交通,http://thhomes.cn:4000/rtp/239.3.1.188:8001
-金鹰卡通,http://thhomes.cn:4000/rtp/239.3.1.51:9252
-嘉佳卡通,http://thhomes.cn:4000/rtp/239.3.1.147:9268
-北京卡酷少儿,http://thhomes.cn:4000/rtp/239.3.1.189:8000
-淘电影,http://thhomes.cn:4000/rtp/239.3.1.250:8001
-淘剧场,http://thhomes.cn:4000/rtp/239.3.1.95:8001
-淘娱乐,http://thhomes.cn:4000/rtp/239.3.1.100:8001
-淘baby,http://thhomes.cn:4000/rtp/239.3.1.238:8001
-萌宠TV,http://thhomes.cn:4000/rtp/239.3.1.102:8001
-睛彩竞技,http://thhomes.cn:4000/rtp/239.3.1.125:8001
-睛彩广场舞,http://thhomes.cn:4000/rtp/239.3.1.128:8001
-睛彩篮球,http://thhomes.cn:4000/rtp/239.3.1.126:8001
-睛彩青少,http://thhomes.cn:4000/rtp/239.3.1.127:8001
-IPTV少儿动画,http://thhomes.cn:4000/rtp/239.3.1.199:9000
-IPTV热播剧场,http://thhomes.cn:4000/rtp/239.3.1.194:9020
-IPTV经典电影,http://thhomes.cn:4000/rtp/239.3.1.195:9024
-IPTV魅力时尚,http://thhomes.cn:4000/rtp/239.3.1.196:9012
-IPTV光影,http://thhomes.cn:4000/rtp/239.3.1.84:4120
-IPTV军事,http://thhomes.cn:4000/rtp/239.3.1.76:4120
-IPTV军旅剧场,http://thhomes.cn:4000/rtp/239.3.1.69:4120
-IPTV军旅剧场,http://thhomes.cn:4000/rtp/239.3.1.68:4120
-IPTV动作影院,http://thhomes.cn:4000/rtp/239.3.1.92:4120
-IPTV动画,http://thhomes.cn:4000/rtp/239.3.1.80:4120
-IPTV喜剧剧场,http://thhomes.cn:4000/rtp/239.3.1.91:4120
-IPTV国学,http://thhomes.cn:4000/rtp/239.3.1.77:4120
-IPTV地理,http://thhomes.cn:4000/rtp/239.3.1.71:4120
-IPTV墨宝,http://thhomes.cn:4000/rtp/239.3.1.83:4120
-IPTV好学生,http://thhomes.cn:4000/rtp/239.3.1.81:4120
-IPTV家庭影院,http://thhomes.cn:4000/rtp/239.3.1.93:4120
-IPTV影视,http://thhomes.cn:4000/rtp/239.3.1.88:4120
-IPTV戏曲,http://thhomes.cn:4000/rtp/239.3.1.78:4120
-IPTV早教,http://thhomes.cn:4000/rtp/239.3.1.79:4120
-IPTV星影,http://thhomes.cn:4000/rtp/239.3.1.94:4120
-IPTV武侠剧场,http://thhomes.cn:4000/rtp/239.3.1.90:4120
-IPTV武术,http://thhomes.cn:4000/rtp/239.3.1.87:4120
-IPTV精选,http://thhomes.cn:4000/rtp/239.3.1.74:4120
-IPTV美人,http://thhomes.cn:4000/rtp/239.3.1.73:4120
-IPTV美妆,http://thhomes.cn:4000/rtp/239.3.1.72:4120
-IPTV解密,http://thhomes.cn:4000/rtp/239.3.1.75:4120
-IPTV都市剧场,http://thhomes.cn:4000/rtp/239.3.1.67:4120
-IPTV鉴赏,http://thhomes.cn:4000/rtp/239.3.1.82:4120
-IPTV音乐现场,http://thhomes.cn:4000/rtp/239.3.1.70:4120
-爱上4K,http://thhomes.cn:4000/rtp/239.3.1.236:2000
 
 🏀体育频道,#genre#
 咪视界-1,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227308/index.m3u8
