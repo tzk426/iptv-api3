@@ -1839,22 +1839,22 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 
 
 📡其他城市,#genre#
+北京新闻,http://fnos.cgproxy.cn:4022/rtp/239.3.1.159:8000
+北京生活,http://fnos.cgproxy.cn:4022/rtp/239.3.1.117:8000
+北京影视,http://fnos.cgproxy.cn:4022/rtp/239.3.1.158:8000
+北京文艺,http://fnos.cgproxy.cn:4022/rtp/239.3.1.242:8000
+北京体育,http://fnos.cgproxy.cn:4022/rtp/239.3.1.243:8000
+北京纪实科教,http://fnos.cgproxy.cn:4022/rtp/239.3.1.115:8000
+北京财经,http://fnos.cgproxy.cn:4022/rtp/239.3.1.116:8000
+北京国际,http://fnos.cgproxy.cn:4022/rtp/239.3.1.235:8000
 
 
-北京新闻,http://www.221111.best:8012/rtp/239.3.1.159:8000
-北京生活,http://www.221111.best:8012/rtp/239.3.1.117:8000
-北京影视,http://www.221111.best:8012/rtp/239.3.1.158:8000
-北京文艺,http://www.221111.best:8012/rtp/239.3.1.242:8000
-北京体育,http://www.221111.best:8012/rtp/239.3.1.243:8000
-北京纪实科教,http://www.221111.best:8012/rtp/239.3.1.115:8000
-北京财经,http://www.221111.best:8012/rtp/239.3.1.116:8000
-北京国际,http://www.221111.best:8012/rtp/239.3.1.235:8000
 新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 爱上海,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
 上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
 上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
-茶,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/CPDMPP360.m3u8
+
 黑龙江影视,http://tl.fzcydn.vip:49135/udp/229.58.190.14:5000
 黑龙江新闻法治,http://tl.fzcydn.vip:49135/udp/229.58.190.16:5000
 黑龙江新闻法治,http://tl.fzcydn.vip:49135/udp/229.58.190.122:5000
