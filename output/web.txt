@@ -637,6 +637,20 @@ channelId=722b4fa2b7fa4cf9b01347414b4fbc1a&type=1&siteId=ee5e92ed238644368bd76f8
 新疆11套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=22
 新疆12套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
 tvbus,#genre#
+松視1台,tvbus://3wYY2CEMFD2J5MNyERcA6vokuWDAZeoJdLwdV8gNcJx53wy2Yc
+松視2台,tvbus://4C7sMuZ3fzR3dyDd163j2hYMbbVuLChkRaUsM6urbdWSJBtaTi
+松視3台,tvbus://4frUWq3M3botSHmXXQiouRaxjrbdN2GD47KvXG8kEmHR9iUa6B
+松視4台,tvbus://47Z4vuyCpKQ3hpvcvQcy1YLnJzPbtZZeRN88MqPYtgLGpbDfGR
+彩虹E台,tvbus://3H2nAtNmvKAcTgEx56na3rNRtNcnL34KHiT6cCtVkvo8nfRQUS
+彩虹電影,tvbus://4eaSNnMWQXFUEZaqcj8foQDHQWWVMr9u4FzVb6eLFik85RXKWT
+樂活頻道,tvbus://3L78BBnQcJ49gBKoZZkV8vzyvgqLriMAQVLyP7WHbkJJsYJ7GS
+香蕉台HD,tvbus://3bbkLdRk8R7poCrAFV9yodtQaEZip7h7unv1fm1oGva4ZPZRLv
+驚豔台HD,tvbus://3zPe9Z1h87cnRLW2GpnvVhdVFU5KPfnS4J1eRBNmH538fLE4cY
+彩虹K頻道,tvbus://3eYYCii5jzdDLECwJr1ZcTdmuYJ1anEsdzU4iLvDGtF9qF5V67
+潘朵啦玩美台,tvbus://33VEMrAeJp8EcWpNPFRa8H664qmAqfZLAhXXqtV1pL6AoQwyPC
+潘朵啦粉紅台,tvbus://3vVdcSWv1UV578YtfWaEtk6GVvNER76MqBsjrBwF9xXAsDuFLu
+極限电影台,tvbus://4bkfAoCrfA2irSUM92jvq9JdnrMYAJmapZrP6HyqMXYHobw3Qv
+
 松視1臺,tvbus4://4ZGxgSYfbSu5g3wvMYR8HyrRYj2r4F259RJbVCYdMKYKXHkPea
 松視1臺 (2),tvbus4://4ZGxgSYfbSu5g3wvMePbWiR1RkVJhGfnZ2pbWuS9mqiWnKnuSD
 松視2臺,tvbus4://4mrRVwxGCZGg63RsXU7SpVC6t2J9QhZ6tdo9JnNjGo6EgwjJ9b
