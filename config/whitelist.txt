@@ -57,8 +57,8 @@
 咪视界-43,https://lnitv.cn:55555/data/api/m.php?id=3000000010000027691
 咪视界-44,https://lnitv.cn:55555/data/api/m.php?id=3000000020000031315
 咪视界-45,https://lnitv.cn:55555/data/api/m.php?id=3000000010000031669
-咪视界-4K-1,https://lnitv.cn:55555/data/api/m.php?id=3000000010000015686
-咪视界-4K-2,https://lnitv.cn:55555/data/api/m.php?id=3000000010000005180
+咪视界4K-1,https://lnitv.cn:55555/data/api/m.php?id=3000000010000015686
+咪视界4K-2,https://lnitv.cn:55555/data/api/m.php?id=3000000010000005180
 
 寰宇新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/hyxw.flv
 CCTV-2,http://cg5.hunancatv.cn:9090/live/CCTV2_8000.m3u8?t=5EEF5%2FJD%2B7hNT6wCp6ahtA%3D%3D&u=HNTV01YU00005694&p=8&cid=10000002&pid=&l=1&d=7C525994CC54&ip=192.168.197.125&n=CCTV2_8000&errorcode=0&sid=ltCGr6p7%2BHzeu59%2BkWfKvQ%3D%3D&r=20240503194742&e=20240503234742&nc=KNefdiBhZ4mE&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=1503359536358273678&srchost=172.16.22.158:8060&gid=rnYyMQm3RY3kRTn%2FDW3Wrw%3D%3D
