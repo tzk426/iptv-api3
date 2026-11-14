@@ -359,7 +359,7 @@ IHOT爱院线,http://192.187.124.34:81/live/ihotayx.m3u8
 湖南国际,http://192.187.124.34:81/live/hngj.m3u8
 湖南导视,http://192.187.124.34:81/live/hnda.m3u8
 
-中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
+
 中天新闻,http://jnzq.ohoyee.com:9080/live/332332-ztxw2.m3u8
 中天新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
 中天新闻,http://iactive-clink.com:8081/live/888ztxw.m3u8
@@ -585,22 +585,6 @@ CETV-2,http://by4.nty.tv189.cn/live/tm-yszgjy2-500k.m3u8
 CETV-4,http://by4.nty.tv189.cn/live/tm-yszgjy4-500k.m3u8
 嘉佳卡通,http://by4.nty.tv189.cn/live/tm-xpjjktws-2000k.m3u8
 上海新闻综合,http://by4.nty.tv189.cn/live/tm-xpxwzhws-2000k.m3u8
-
-
-
-
-
-
-
-凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
-凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
-凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
-
-
-
-吉林乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8
-吉祥新闻,http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/da805d8d77a24db8aaa62328eb6d874e/1.m3u8
-
 
 辽宁卫视,http://36.129.58.53:8008/paiptv/LNWS.m3u8
 辽宁都市,http://36.129.58.53:8008/paiptv/LNDS.m3u8
