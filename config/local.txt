@@ -608,15 +608,7 @@ CCTV-8K,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
 西藏卫视,http://k.061899.xyz/k.php?id=xzws
 兵团卫视,http://k.061899.xyz/k.php?id=btws
 广东影视,http://k.061899.xyz/k.php?id=gdys
-
-
-
-    
-
 💖港澳频道,#genre#
-
-💖港澳频道,#genre#
-
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
@@ -632,9 +624,6 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 凤凰中文,http://173.208.234.146/live/fhzw.m3u8
 凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
 凤凰香港,http://173.208.234.146/live/fhxg.m3u8
-凤凰中文,http://fh.niurou.cc.cd/fhzw
-凤凰资讯,http://fh.niurou.cc.cd/fhzx
-凤凰香港,http://fh.niurou.cc.cd/fhhk
 
 民视新闻频波,http://211.72.174.95:8117/0.ts
 中视闽南频波,http://211.72.174.95:8113/0.ts
