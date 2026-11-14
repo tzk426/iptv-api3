@@ -88,6 +88,13 @@ CCTV-17,http://cg1.hunancatv.cn:9090/live/CCTV17_8000.m3u8?deviceid=866265039837
 凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
+凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
+凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
+
+凤凰中文,http://8.138.7.223/tv/fengshows.php?id=fhzw
+凤凰资讯,http://8.138.7.223/tv/fengshows.php?id=fhzx
+凤凰香港,http://8.138.7.223/tv/fengshows.php?id=fhhk
 
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
