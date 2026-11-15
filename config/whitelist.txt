@@ -10,6 +10,10 @@
 北京新闻,http://123.115.202.110:5001/proxy/beijing-tv-xw.m3u8
 北京纪实科教,http://123.115.202.110:5001/proxy/beijing-tv-kj.m3u8
 北京财经,http://123.115.202.110:5001/proxy/beijing-tv-cj.m3u8
+CECTV1-汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CECTV2-国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CECTV3-国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CECTV4-国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 
 咪视界-1,https://lnitv.cn:55555/data/api/m.php?id=3000000001000005308
