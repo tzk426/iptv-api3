@@ -14,6 +14,7 @@ CECTV1-汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CECTV2-国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 CECTV3-国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CECTV4-国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+浙江之江纪录,http://146.56.248.47:1366/SuanFaZhibo2026/live5/zhejiang/zhejiang.php?id=zjzjjl
 
 
 咪视界-1,https://lnitv.cn:55555/data/api/m.php?id=3000000001000005308
